@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">If Else Condition</string>
+
+
+    <string name="problem1">
+Find maximum between two numbers. \n
+Example \n
+Input \n
+Input num1: 10 \n
+Input num2: 20 \n
+Output \n
+Maximum = 20
+    </string>
+
+    <string name="problem2">
+Find maximum between three numbers. \n
+Example \n
+Input \n
+Input num1: 10 \n
+Input num2: 20 \n
+Input num3: 15 \n
+Output \n
+Maximum is: 20
+    </string>
+
+    <string name="problem3">
+Check whether a number is negative, positive or zero. \n
+Example \n
+Input \n
+Input number: 23 \n
+Output \n
+23 is positive
+    </string>
+
+    <string name="problem4">
+Check whether a number is divisible by 5 and 11 or not. \n
+Example \n
+Input \n
+Input number: 55 \n
+Output \n
+Number is divisible by 5 and 11
+    </string>
+
+    <string name="problem5">
+Check whether a number is even or odd. \n
+Example \n
+Input \n
+Input number: 10 \n
+Output \n
+10 is even number
+    </string>
+
+    <string name="problem6">
+Check whether a year is leap year or not. \n
+Example \n
+Input \n
+Input year: 2004 \n
+Output \n
+2004 is leap year.
+    </string>
+
+    <string name="problem7">
+Check whether a character is alphabet or not. \n
+Example \n
+Input \n
+Input character: a \n
+Output \n
+a is alphabet
+    </string>
+
+    <string name="problem8">
+Input any alphabet and check whether it is vowel or consonant. \n
+Example \n
+Input \n
+Input character: a \n
+Output \n
+a is vowel
+    </string>
+
+    <string name="problem9">
+Input any character and check whether it is alphabet, digit or special character. \n
+Example \n
+Input \n
+Input any character: 3 \n
+Output \n
+3 is digit
+    </string>
+
+    <string name="problem10">
+Check whether a character is uppercase or lowercase alphabet. \n
+Example \n
+Input \n
+Input character: C \n
+Output \n
+C is uppercase alphabet
+    </string>
+
+    <string name="problem11">
+Input week number and print week day. \n
+Example \n
+Input \n
+Input week number: 1 \n
+Output \n
+Monday
+    </string>
+
+    <string name="problem12">
+Input month number and print number of days in that month. \n
+Example \n
+Input \n
+Enter month number: 1 \n
+Output \n
+It contains 31 days.
+    </string>
+
+    <string name="problem13">
+Count total number of notes in given amount. \n
+Example \n
+Input \n
+Input amount: 575 \n
+Output \n
+Total number of notes: \n
+500: 1 \n
+100: 0 \n
+50: 1 \n
+20: 1 \n
+10: 0 \n
+5: 1 \n
+2: 0 \n
+1: 0 \n
+    </string>
+
+    <string name="problem14">
+Input angles of a triangle and check whether triangle is valid or not. \n
+Example \n
+Input \n
+Input first angle: 60 \n
+Input second angle: 30 \n
+Input third angle: 90 \n
+Output \n
+The triangle is valid
+    </string>
+
+    <string name="problem15">
+Input all sides of a triangle and check whether triangle is valid or not. \n
+Example \n
+Input \n
+Input first side: 7 \n
+Input second side: 10 \n
+Input third side: 5 \n
+Output \n
+Triangle is valid
+    </string>
+
+    <string name="problem16">
+Check whether the triangle is equilateral, isosceles or scalene triangle. \n
+Example \n
+Input \n
+Input first side: 30 \n
+Input second side: 30 \n
+Input third side: 30 \n
+Output \n
+Triangle is equilateral triangle
+    </string>
+
+    <string name="problem17">
+Find all roots of a quadratic equation. \n
+Example \n
+Input \n
+Input a: 8 \n
+Input b: -4 \n
+Input c: -2 \n
+Output \n
+Root1: 0.80 \n
+Root2: -0.30
+    </string>
+
+    <string name="problem18">
+Calculate profit or loss. \n
+Example \n
+Input \n
+Input cost price: 1000 \n
+Input selling price: 1500 \n
+Output \n
+Profit: 500
+    </string>
+
+
+    <string formatted="false" name="problem19">Input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A \n
+Percentage >= 80% : Grade B \n
+Percentage >= 70% : Grade C \n
+Percentage >= 60% : Grade D \n
+Percentage >= 40% : Grade E \n
+Percentage Less than 40% : Grade F  \n
+Example \n
+Input \n
+Input marks of five subjects: 95 \n
+95 \n
+97 \n
+98 \n
+90 \n
+Output \n
+Percentage = 95.00 \n
+Grade A
+    </string>
+
+    <string name="problem20">input basic salary of an employee and calculate its Gross salary according to following: \n
+Basic Salary Less than equal 10000 : HRA = 20%, DA = 80% \n
+Basic Salary Less than equal 20000 : HRA = 25%, DA = 90% \n
+Basic Salary > 20000 : HRA = 30%, DA = 95% \n
+Example \n
+Input \n
+Input basic salary of an employee: 22000 \n
+Output \n
+Gross salary = 49500
+    </string>
+
+    <string name="problem21">Input electricity unit charges and calculate total electricity bill according to the given condition: \n
+For first 50 units Rs. 0.50/unit \n
+For next 100 units Rs. 0.75/unit \n
+For next 100 units Rs. 1.20/unit \n
+For unit above 250 Rs. 1.50/unit \n
+An additional surcharge of 20% is added to the bill \n
+Example \n
+Input \n
+Enter total units consumed: 150 \n
+Output \n
+Electricity Bill = Rs. 120.00
+    </string>
+
+
+</resources>

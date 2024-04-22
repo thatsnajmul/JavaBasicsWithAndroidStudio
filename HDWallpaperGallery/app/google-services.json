@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345523657024",
+    "project_id": "hd-wallpaper-gallery-4dcb2",
+    "storage_bucket": "hd-wallpaper-gallery-4dcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345523657024:android:c5bfca4107b1d5471c42a5",
+        "android_client_info": {
+          "package_name": "com.thatsnajmul.hdwallpapergallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345523657024-d7rr9l8i5ja2ooaf2l08t78n5mphm3c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr41Am4Ds1lunBzWFB6BRnyWaDySrGHfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345523657024-d7rr9l8i5ja2ooaf2l08t78n5mphm3c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

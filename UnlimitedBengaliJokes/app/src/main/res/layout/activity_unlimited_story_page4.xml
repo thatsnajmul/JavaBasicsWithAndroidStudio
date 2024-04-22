@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage4"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ০৪"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৬) এবার মাফ করেন\n
+এক ফকির পিচ্চি মেয়েকে বলছে-\n
+ফকির : আল্লাহর ওয়াস্তে কিছু দে বেটা।\n
+পিচ্চি : আমি বেটা না, বেটি।\n
+ফকির : আল্লাহর ওয়াস্তে কিছু দে বেটি।\n
+পিচ্চি : আমার নাম স্বর্ণা।\n
+ফকির : আল্লাহর ওয়াস্তে কিছু দে স্বর্ণা।\n
+পিচ্চি : আমার পুরা নাম নাদিয়া শারমিন স্বর্ণা।\n
+ফকির : আল্লাহর ওয়াস্তে কিছু দে নাদিয়া শারমিন স্বর্ণা।\n
+পিচ্চি : হ্যাঁ, এখন ঠিক আছে! এবার মাফ করেন।
+\n
+\n
+\n
+(১৭) এক মিনিট ওয়েট করো\n
+লিটল জন পাহাড়ের সর্বোচ্চ চুড়ায় উঠে ইশ্বরকে ডাকাডাকি শুরু করলো…\n
+জনঃ ইশ্বর ও ইশ্বর!!! শুনছো!\n
+ঈশ্বরঃ কি হয়েছে আমার প্রিয় জন?\n
+জনঃ তোমার কাছে ১ কোটি বছর মানে কতক্ষন?\n
+ঈশ্বরঃ আমার কাছে ১ কোটি বছর হলো ১ মিনিট।\n
+জনঃ ও, আচ্ছা তোমার কাছে ১০০০ কোটি টাকা মানে কত পয়সা?\n
+ঈশ্বরঃ ১০০০ কোটি টাকা আমার কাছে তো ১ পয়সারও কম।\n
+জনঃ তাইলে তুমি আমাকে ১টা পয়সা দাওনা। প্লিইইজ।\n
+ঈশ্বরঃ মাত্র ১ পয়সা!! ঠিক আছে বাছা। জাস্ট ১ মিনিট ওয়েট করো।
+-এই বলে ইশ্বর অদৃশ্য হলেন।
+\n
+\n
+\n
+(১৮) অফিসে অন্য কারো আকর্ষণের শিকার\n
+বস: অফিসে যেসব পুরুষ অধিক সময় কাটায়, হামেশা ওভারটাইম করে তারা আসলে খুব পরিশ্রমী। এদের স্ত্রীরা খুব সুখী।\n
+বল্টু: না স্যার! আসল কারণ হইলো- হয় বাড়িতে এরা সারাক্ষণ বউয়ের নির্যাতনের শিকার নয়তো অফিসে অন্য কারো আকর্ষণের শিকার।
+\n
+\n
+\n
+(১৯) জয় বাংলা সোনার বাংলা\n
+এক সুন্দরী আপু রিকশায় করে যাচ্ছে এমন সময় আপে রিকশাওয়ালার ছেড়া লুঙ্গী দেখে বললো, মামা আপনার তো জয় বাংলা দেখা যাচ্ছে লুঙ্গীটা ঘুরাইয়া পরেন’\n
+রিকশাওয়ালা :এহন তো জয় বাংলা দেহা যাইতাছে ঘুরাইয়া পরলে সোনার বাংলাও দেহা যাইবো ‘
+\n
+\n
+\n
+(২০) তুমি অবশ্যই আমেরিকান\n
+এক পাগল এক চাইনিজকে জিজ্ঞেস করছে-\n
+পাগল : তুমি কি আমেরিকান? \n
+চাইনিজ : না, আমি চাইনিজ।\n
+পাগল : তুমি আমেরিকান না? \n
+চাইনিজ : না, আমি চাইনিজ।\n
+পাগল : মিথ্যা বলছ, তুমি অবশ্যই আমেরিকান।\n
+চাইনিজ : হ্যাঁ বাবা। আমি আমেরিকান। খুশি? \n
+পাগল : কিন্তু চেহারা দেখে তো মনে হয় তুমি চাইনিজ।
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

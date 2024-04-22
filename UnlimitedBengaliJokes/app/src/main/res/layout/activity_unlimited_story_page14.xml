@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage14"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১৪"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৬৬) মাইয়ার ফেসবুক ফ্রেন্ড\n
+হঠাৎ বাসায় কলিংবেল। গৃহকর্ত্রী গেলেন দরজা খুলতে। খুলেই তিনি অবাক, এক কাজের বুয়া দাঁড়িয়ে আছে।\n
+গৃহকর্ত্রী : কে আপনি? \n
+মহিলা : আপা, আমি আপনার ফেসবুক ফ্রেন্ড। গতকাল আপনি একটা স্ট্যাটাস দিলেন যে, আপনার বাসার কাজের বুয়া চইলা গেছে। সেইটা দেখার পর আমি আমার আগের বাড়ির কাজ ছাইড়া আপনার বাড়ি চইলা আইলাম।\n
+গৃহকর্ত্রী : বাসার ঠিকানা কোথায় পেলে? \n
+মহিলা : আপা, আপনার ছেলে দিছে। ও আবার আমার মাইয়ার ফেসবুক ফ্রেন্ড।
+\n
+\n
+\n
+(৬৭) রসগোল্লা\n
+মেয়ে প্রথম স্কুলে জাবে তাই মা মেয়েকে বলল সবার সাথে মিসটি করে কথা বলতে। সকলে গিয়ে\n
+টিচার : এই মেয়ে তোমার নাম কি? \n
+মেয়ে : জিলাপি\n
+টিচার :(আশ্চর্য হয়ে) আজব নাম তো . তোমার বাবার নাম কি? \n
+মেয়ে : রসগোল্লা।\n
+টিচার : (আরো আশ্চর্য হয়ে) তোমার মায়ের নাম কি? \n
+মেয়ে : সন্দেশ।\n
+টিচার : (বিরক্ত হয়ে) তোমরা থাকো কথায়? \n
+মেয়ে : কেনো মিস্টির দোকানে।\n
+টিচার : বেহুঁশ।
+\n
+\n
+\n
+(৬৮) তার অনেকগুলো গার্লফ্রেন্ড\n
+এক ছেলেকে তার মা বলছেন-\n
+মা : খারাপ ছেলেদের সাথে মিশবি না।\n
+ছেলে : ঠিক আছে মা।\n
+এরপর থেকে ছেলেটি আর ছেলেদের সাথে মেশে না। কেননা সে তার মায়ের কথা রাখছে।\n
+কিছুদিন পর তার মা দেখলেন, এখন তার অনেকগুলো গার্লফ্রেন্ড।
+\n
+\n
+\n
+(৬৯) আমার বাড়িতে ফিরে এসেছে\n
+এক লোক তার পোষা কবুতরগুলো হাটে তুলেছেন। ক্রেতাকে বলছেন-\n
+বিক্রেতা : এই কবুতরগুলো নেন ভাই, খুবই প্রভুভক্ত।\n
+ক্রেতা : তাই নাকি? তা কেমন করে বুঝলেন খুব প্রভুভক্ত? \n
+বিক্রেতা : আমি যতবারই এগুলো বিক্রি করেছি, ততবারই আমার বাড়িতে আবার ফিরে এসেছে।
+\n
+\n
+\n
+(৭০) আপনার ঘরে কেউ ঢুকবে না\n
+এক গরিব লোকের ঘরে চোর এসে আতিপাতি করে খুঁজে নিয়ে যাওয়ার মতো কিছুই পেল না।\n হতাশ হয়ে চোর যখন চলে যাচ্ছে-\n
+লোক : দরজাটা বন্ধ করে যেও।\n
+চোর : দরজা খোলা থাকলেও সমস্যা নেই। আপনার ঘরে কেউ ঢুকবে না।
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

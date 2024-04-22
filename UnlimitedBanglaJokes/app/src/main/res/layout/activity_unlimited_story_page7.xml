@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage7"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ০৭"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৩১) ফেসবুকিং\n
+স্কুলপড়ুয়া ছেলেটা তার ফেসবুক স্ট্যাটাসে লিখল, ‘ক্লাসরুমে বসে বসে ফেসবুকিং করছি। হা হা হা…কী মজা!’\n
+সঙ্গে সঙ্গেই কমেন্ট লিখলেন শিক্ষক, ‘বেরিয়ে যাও।’\n
+শিক্ষকের কমেন্টে লাইক দিয়ে ছেলেটির মা লিখলেন,‘আজকে আসো বাসায়। এই অপরাধের শাস্তিস্বরূপ তুমি আজ ঘর ঝাঁট দেবে, ঘর মুছবে এবং থালাবাসন ধুবে।’\n
+মায়ের কমেন্টে লাইক দিল বাসার কাজের লোক!
+\n
+\n
+\n
+(৩২) আমার ব্যালেন্স কাটা যাবে না তো\n
+নারী: হ্যালো! এটা কি কাস্টমার কেয়ার? \n
+কর্মকর্তা: হ্যাঁ, ম্যাডাম বলুন। আমরা কিভাবে আপনাকে সাহায্য করতে পারি।\n
+নারী: বলছি আমার ছেলেটা আমার সিমটা খেয়ে ফেলেছে।\n
+কর্মকর্তা: দেখুন, আপনি ওকে ইমিডিয়েট ডাক্তারের কাছে নিয়ে যান, এখানে ফোন করে সময় নষ্ট করছেন কেন?\n
+নারী: না, আমি বলছিলাম আমার সিমটাতে ২০০ টাকার টকটাইম আছে।\n
+কর্মকর্তা: তাতে কি?\n
+নারী: যতক্ষণ না পর্যন্ত সিমটা বের করা হচ্ছে; ততক্ষণ আমার ছেলেটা যদি কথা বলে তাহলে আমার ব্যালেন্স কাটা যাবে না তো!
+\n
+\n
+\n
+(৩৩) চারটে বেজে গেছে, উঠে পড়ো\n
+স্বামী আর স্ত্রীর মধ্যে প্রচন্ড ঝগড়া। মুখ দেখা, কথা বন্ধ। রাতে শুতে যাওয়ার সময় স্বামীর মনে পড়ল পরের দিন ভোরবেলা ফ্লাইট। এদিকে স্বামী বেচারা সকালে উঠতে পারে না। \n সাত-পাঁচ ভেবে সে একটি কাগজে লিখল…\n “কাল সকাল চারটার সময় ডেকে দিও” কাগজটা স্ত্রীর বালিশের কোণায় চাপা দিয়ে স্বামী নিশ্চিন্তে ঘুমিয়ে পড়ল।\n
+পরের দিন সকালে সাড়ে আটটার সময় স্বামীর ঘুম ভাংল। সময় দেখে তার তো চক্ষু চড়কগাছ। রেগেমেগে চিৎকার করে স্ত্রীকে ডাকতে গিয়ে তার নজরে পড়ল বালিশের পাশে একটা চিরকুট। খুলে দেখল লেখা আছে…\n“চারটে বেজে গেছে, উঠে পড়ো।”
+\n
+\n
+\n
+(৩৪) সিভিতে উল্লেখ কোমর পানিতে, নোংড়া পানিতে সাঁতার\n
+প্রশ্নকর্তা: আপনি সিভিতে উল্লেখ করেছেন- কোমর পানিতে, নোংড়া পানিতে সাঁতারে বিশেষ দক্ষতা রয়েছে। চাকরি তো করবেন অ্যাকাউন্ট্যান্ট হিসেবে। তার ওপর কোমর পানিতে-নোংড়া পানিতে সাঁতার! এসব কী! সিভিতে কেউ এ কথা লেখে? \n
+বল্টু: স্যার, আমি আসলে বোঝাতে চেয়েছি- ঢাকায় ঝুম বৃষ্টি হলেও অফিসে পৌঁছাতে অসুবিধা হবে না আমার! \n
+প্রশ্নকর্তা: সরি, আপনাকে ভুল বোঝার জন্য! আপনি আজই জয়েন করুন! আপনার মতো লোকই তো খুঁজছিলাম এতদিন!
+\n
+\n
+\n
+(৩৫) পাপ্পু\n
+ক্লাসরুমে শিক্ষক পাপ্পুকে বললেন ইংরেজিতে 0 থেকে 10 পর্যন্ত গুনতে…\n
+পাপ্পুঃ “0, 1, 2, 3, 4, 6, 7,  8, 9, 10” \n
+শিক্ষকঃ “5 কোথায় গেলো??” \n
+পাপ্পুঃ “মারা গেছে স্যার” \n
+শিক্ষকঃ “কিভাবে?” \n
+পাপ্পুঃ “গতকালকে ইংরেজি খবরে শুনলাম যে- 5 died in a car accident..!!
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

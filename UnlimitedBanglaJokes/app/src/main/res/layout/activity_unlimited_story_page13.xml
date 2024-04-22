@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage13"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১৩"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৬১) রাসায়নিক দ্রব্যের নাম \n
+শিক্ষকঃ ১০ টা রাসায়নিক দ্রব্যের নাম বলো…\n
+ছাত্রঃ ক্লোরিন\n
+ফ্লোরিন\n
+ব্রোমিন\n
+আয়োডিন\n
+. \n
+. \n
+. \n
+. \n
+. \n
+. \n
+. \n
+. \n
+নওরিন\n
+জেরিন\n
+জেসমিন\n
+পারভিন\n
+ইয়াসমিন\n
+নাসরিন
+\n
+\n
+\n
+(৬২) ট্রেন দুর্ঘটনা দেখার শখ\n
+রেলওয়েতে চাকরির ইন্টারভিউ হচ্ছে। একটি চটপটে ছেলেকে সবার পছন্দ হল। চেয়ারম্যান একটু যাচাই করে নিতে চাইলেন-\n
+চেয়ারম্যান : ধর, একটা দ্রুতগামী ট্রেন আসছে। হঠাৎ দেখলে লাইন ভাঙা। ট্রেনটা থামানো দরকার। কী করবে তুমি? \n
+প্রার্থী : লাল নিশান ওড়াব।\n
+চেয়ারম্যান : যদি রাত হয়? \n
+প্রার্থী : লাল আলো দেখাব।\n
+চেয়ারম্যান : লাল আলো যদি না থাকে? \n
+প্রার্থী : তা হলে আমার বোনকে ডাকব।\n
+চেয়ারম্যান : বোনকে! তোমার বোন এসে কী করবে? \n
+প্রার্থী : কিছু করবে না। ওর অনেক দিনের শখ একটা ট্রেন দুর্ঘটনা দেখার!
+\n
+\n
+\n
+(৬৩) মেয়াদোত্তীর্ণদুধ পান \n
+ত্রিশ বছরের এক ছেলে ষাট বছরের এক মহিলাকে বিয়ে করবার পর বাসর ঘরে প্রবেশ করলো। \n সকাল বেলা ছেলেটির লাশ পাওয়া গেল। পোস্ট মর্টেম রিপোর্ট\n
+থেকে জানা গেল, “মেয়াদোত্তীর্ণদুধ পানে মৃত্যু”
+\n
+\n
+\n
+(৬৪) বত্রিশ টা ঘুসি মেরে পেয়েছি\n
+পাপ্পু একবার এক দোকানে গেছে রেসলিং এ জয়ী হওয়া ঘড়ি ঠিক করার জন্য-\n
+পাপ্পু : আমি আমার এই ঘড়িটা ঠিক করতে চাই। কত টাকা লাগবে? \n
+দোকানদার : আপনি যা দিয়ে কিনেছেন তার অর্ধেক দিলেই চলবে।\n
+পাপ্পু : আমি ঘড়িটা ৩২টা ঘুসি মেরে পেয়েছি। তো কয়টা দিতে হবে? \n
+\n
+\n
+\n
+(৬৫) মহিলা অন্তর্বাস\n
+এক পোলা গলির ভিতর দিয়া একমনে হাটতেছে। হঠাৎ তার মাথার উপড়ে ওপর থিকা উইড়া আইসা একটা মহিলা অন্তর্বাস (ব্রা) পরলো ! পোলাডার মেজাজ খারাপ হইয়া গেলো।\n
+পোলাডা মনে মনে ভাবলো যে উপরে আম খাইতেছে একজন আর আমের খোঁসা ফেলতাছে আমার মাথার ওপর !!! \n
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

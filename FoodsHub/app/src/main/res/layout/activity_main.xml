@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    android:background="#FFFFFF"
+    >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ফুডস হাব"
+                    android:background="#F905AB"
+                    android:textColor="#FFFFFF"
+                    android:textSize="30dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ফুডস হাবে আপনাকে স্বাগতম!"
+                    android:textSize="27dp"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textColor="#F905AB"
+                    />
+                <ImageView
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:src="@drawable/discount25"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="অর্ডার করলে পাচ্ছেন ২৫% ডিসকাউন্ট!"
+                    android:textSize="23dp"
+                    android:layout_gravity="center"
+                    android:textColor="#F80233"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="(শর্ত প্রযোজ্য)"
+                    android:textSize="12dp"
+                    android:textColor="#100B0B"
+                    android:layout_marginLeft="310dp"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="যেকোনো ২টি খাবার অর্ডার করলেই পাবেন ফ্রি হোম ডেলিভারী...!"
+                    android:textSize="21dp"
+                    android:textColor="#F80233"
+                    android:layout_margin="22dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="বিভিন্ন খাবারের বিবরনঃ-"
+                    android:textSize="30dp"
+                    android:textColor="#0254F8"
+                    android:gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="পিজ্জা"
+                    android:textSize="30dp"
+                    android:textColor="#F44336"
+                    android:gravity="center"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizza"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="পিজ্জা এক মজাদার জিভে জল এনে দেয়া খাবারের নাম। ছোট বড় বুড়ো কে না ভালোবাসে পিজ্জা খেতে? এই পিজ্জার আবার আছে রঙ বেরঙের সাজসজ্জা আর বাহারি স্বাদ। ইতালিতে জন্ম গ্রহণের পর থেকে পিজ্জার অসংখ্য রূপান্তর পরিলক্ষিত হয়েছে, যেগুলো পৃথিবীর বিভিন্ন দেশে ব্যাপক জনপ্রিয়তা লাভ করেছে। বিভিন্ন সময় ও স্থানে বিভিন্ন দেশের নিজস্বতা মিশে গেছে খাবারটিতে।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="১. নেয়াপোলিটান পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzaone"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="নেয়াপোলিটান পিজ্জার জন্ম ১৮'শ শতাব্দীতে ইতালির নেপলসে। এটি হচ্ছে অরিজিনাল পিজ্জা। এক সময়ে এই এলাকার দরিদ্র জনগোষ্ঠীতে এই খাবারের প্রচলন শুরু হয়। পাতলা রুটির(বা ক্রাস্ট) উপর টমেটো, পনির, তেল এবং রসুন দিয়ে এটি তৈরি করা হত। তখন খুব স্বল্প মূল্যে রাস্তার পাশে এটি বিক্রি হত। বর্তমানে তিন ধরণের নেয়াপোলিটান পিজ্জা পাওয়া যায়- মারিনারা, মারগারিটা, মারগারিটা এক্সট্রা। নেয়াপোলিটান পিজ্জা খুব পাতলা হওয়ায় এর উপর টপিং খুব বেশি দেয়া যায় না। সাধারণত ৮০০ থেকে ১০০০ ডিগ্রি ফারেনহাইটে ৭০-৯০ মিনিট সময় লাগে এটি তৈরি হতে।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="২. শিকাগো পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzatwo"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="১৯০০ শতকে যখন ইতালিয়ান প্রবাসীরা শিকাগোতে অবস্থান করছিল তখন এরা এই নতুন ধরণের পিজ্জার প্রচলন করেন। শহরের নামানুসারে এর নাম রাখা হয়। এটি নেয়াপোলিটান পিজ্জার মত পাতলা নয়, বেশ পুরু এবং পাই এর মত দেখতে। অন্যান্য পিজ্জার মত এর টপিং গুলো এর উপরে না দিয়ে এর ভেতরে পরতে পরতে দেয়া হয়। টপিং বিভিন্ন ধরণের হতে পারে, যেমন- বীফ, সসেজ, পেপারনি, পেয়াজ, মাশরুম, কাঁচা মরিচ ইত্যাদি। একটি প্যানে তেল দিয়ে সেটা ৩০-৩৫ মিনিট বেক করতে হয়।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="৩. নিউ ইয়র্ক স্টাইল পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzathree"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ইউনাইটেড স্টেটস এর সবচেয়ে জনপ্রিয় এবং বহুল প্রচলিত পিজ্জা নিউ ইয়র্ক পিজ্জা। নেয়াপোলিটান এবং নিউ ইয়র্ক পিজ্জার মধ্যে অনেক মিল রয়েছে। এগুলোর ক্রাস্ট খুব পাতলা হয়। নেয়াপোলিটান পিজ্জার সাথে এর তফাৎ হচ্ছে, এর টপিং অনেক ধরণের হতে পারে, যেমন- পেপারনি, সসেজ, মাশরুম ইত্যাদি। এছাড়াও আপনি আপনার ইচ্ছামত টপিং দিতে পারেন। সাধারণত কাঠ বা কয়লার চুলায় এটিকে বেক করা হয়।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="৪. সিসিলিয়ান পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzafour"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="সিসিলিয়ান পিজ্জাকে শিকাগো পিজ্জার নিকট আত্মীয় বললে ভুল হবে না। এটি চৌকো আকৃতির এবং এর ক্রাস্ট মোটা হয়। এতে সাধারণত টমেটো সস, পেয়াজ, হার্ব ও শুঁকনো মাছ(বা এঞ্চভি) ব্যবহার করা হয়। এটি ওভেনে ৪২৫ ডিগ্রি ফারেনহাইটে ১৫-২০ মিনিট বেক করতে হয়।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="৫. গ্রীক পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzafive"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="গ্রীক পিজ্জায় গ্রীক কোন উপাদান দেয়া হয় না, গ্রীসেও এর জন্ম হয়নি। তবে গ্রীক প্রবাসীরা আমেরিকায় এই পিজ্জারর প্রচলন ঘটায়। শিকাগো বা নিউ ইয়র্ক স্টাইল পিজ্জার মত এর কোন ধরাবাঁধা নিয়ম নেই। এর ক্রাস্ট মোটা এবং ফোলানো হয়। এর টপিং হিসেবে মোজারেলা ও চেডার চিজ ব্যবহার করা হয়, যার সাথে আপনার ইচ্ছা মত টপিং যোগ করতে পারেন। ফেটা চিজ, কালো জলপাই, লাল পেয়াজ ইত্যাদি।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="৬. ক্যালিফোর্নিয়া পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzasix"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="ক্যালিফোর্নিয়া পিজ্জা এর লক্ষণীয় উপাদানের জন্য পরিচিত। ৭০ এর দশকে শেফ এড লাদও প্রথম এই পিজা উদ্ভাবন করেন। পরবর্তীতে তিনি ২৫০ রকমের পিজ্জা তৈরি করেন।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="৭. টমেটো পাই পিজ্জাঃ"
+                    android:textSize="20dp"
+                    android:textColor="#3F51B5"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+                <ImageView
+                    android:layout_width="370dp"
+                    android:layout_height="250dp"
+                    android:src="@drawable/pizzasaven"
+                    android:scaleType="center"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="সিসিলিয়ান পিজ্জার আদলে তৈরি ইতালিয়ান টমেটো পাই মোটা ক্রাস্টের চৌকো আকৃতির পিজ্জা। এতে মিষ্টি স্বাদের ও শক্তিশালী ফ্লেভারের টমেটো সস ব্যবহার করা হয়। ক্রাস্টের সাথে সসের হাল্কা মিশ্রণের মাধ্যমে এই খাবারটি তৈরি করা হয়। এটাকে পিজ্জা হিসেবে আপনি নাও মেনে নিতে পারেন! তৈরির জন্য প্রথমে ক্রাস্ট অংশটি ওভেনে বেক করে, তারপর সস মিশ্রিত করতে হবে, আর ৫৫০ ডিগ্রি ফারেনহাইটে ১৫ মিনিট বেক করতে হবে।"
+                    android:textSize="20dp"
+                    android:textColor="#F44336"
+                    android:gravity="left"
+                    android:padding="17dp"
+                    />
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+
+</LinearLayout>

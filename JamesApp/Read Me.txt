@@ -1,0 +1,6 @@
+Please find the MainActivity and VideoPlayer java class
+and related layout.xml files for your help!
+
+//==========================================
+Happy Coding
+//------------------------------------- Jubayer Hossain

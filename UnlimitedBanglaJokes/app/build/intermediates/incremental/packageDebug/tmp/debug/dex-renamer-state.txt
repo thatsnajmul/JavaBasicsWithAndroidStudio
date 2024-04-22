@@ -1,0 +1,4 @@
+#Thu Mar 31 20:32:22 BDT 2022
+base.0=C\:\\Users\\Najmul\\AndroidStudioProjects\\UnlimitedBanglaJokes\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

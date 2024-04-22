@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Problem7"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="15dp"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Problem 07"
+                android:textColor="#CF0AF1"
+                android:textSize="30dp"
+                android:textStyle="italic"
+                android:padding="08dp"
+                android:layout_margin="10dp"
+                android:background="#EEF4F4"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/problem7"
+                android:textColor="#03A9F4"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+
+            <EditText
+                android:id="@+id/edittextp7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:layout_margin="10dp"
+                />
+
+
+            <TextView
+                android:id="@+id/tvdisplayp7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#F81212"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                />
+
+
+            <Button
+                android:id="@+id/buttonp7"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:text="Submit"
+                android:background="#DB08FF"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="28dp"
+                android:layout_margin="10dp"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

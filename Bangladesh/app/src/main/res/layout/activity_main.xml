@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about_bangladesh"
+        android:background="#c81414"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:src="@drawable/bangladesh"
+        android:contentDescription="@string/todo" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bangladesh_to_the_east_of_india_on_the_bay_of_bengal_is_a_south_asian_country_marked_by_lush_greenery_and_many_waterways_its_padma_ganges_meghna_and_jamuna_rivers_create_fertile_plains_and_travel_by_boat_is_common_on_the_southern_coast_the_sundarbans_an_enormous_mangrove_forest_shared_with_eastern_india_is_home_to_the_royal_bengal_tiger"
+        android:background="#E4D9D9"
+        android:layout_margin="10dp"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:textColor="#170C11"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/thank_you"
+        android:background="#FFFFFF"
+        android:textColor="#B3305D"
+        android:textSize="10sp"/>
+
+</LinearLayout>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#FFFFFF"
+    >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="করোনা ভাইরাস"
+                    android:textSize="30dp"
+                    android:textColor="#FFFFFF"
+                    android:background="#025DFB"
+                    />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="100"
+                    >
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/coronaone"
+                        android:layout_weight="50"
+                        android:scaleType="fitXY"
+                        />
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="50"
+                        android:src="@drawable/coronatwo"
+                        android:scaleType="fitXY"
+                        />
+                </LinearLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:text="কোভিড-১৯ যা করোনা ভাইরাস নামে পরিচিত - সাম্প্রতিক সময়ে গণমাধ্যমের শিরোনামে প্রাধান্য বিস্তার করেছে। এশিয়ার বিভিন্ন অংশ এবং এর বাইরেও দ্রুত ছড়িয়ে পড়ছে এই ভাইরাস। সাধারণ সতর্কতা অবলম্বন করে আপনি এই ভাইরাসটির সংক্রমণ ও বিস্তারের ঝুঁকি কমিয়ে আনতে পারেন।"
+                    android:textColor="#0B0707"
+                    android:textSize="20dp"
+                    android:layout_margin="8sp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="করোনা থেকে বাঁচতে যে দোয়া পড়বেন:-"
+                    android:textSize="25dp"
+                    android:layout_margin="8sp"
+                    android:textColor="#F60909"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:text="للَّهمَّ إِنِّي أَعُوُذُ بِكَ مِنَ الْبرَصِ، وَالجُنُونِ، والجُذَامِ، وسّيءِ الأَسْقامِ."
+                    android:textColor="#0B0707"
+                    android:textSize="20dp"
+                    android:layout_margin="8sp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:text="বাংলা উচ্চারণ: আল্লাহুম্মা ইন্নি আ’য়ুজুবিকা মিনাল বারাছ, ওয়াল জুনুন ওয়াল জুযাম, ওয়া সায়্যিইল আসক্বাম।"
+                    android:textColor="#0B0707"
+                    android:textSize="20dp"
+                    android:layout_margin="8sp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:text="বাংলা অর্থ: হে আল্লাহ, আমি তোমার নিকট ধবল, কুষ্ঠ এবং উন্মাদনা সহ সব ধরনের কঠিন দূরারোগ্য ব্যাধি থেকে পানাহ চাই। [সুনান আবু দাউদ]’"
+                    android:textColor="#0B0707"
+                    android:textSize="20dp"
+                    android:layout_margin="8sp"
+                      />
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/coronaalert"
+                    android:scaleType="fitXY"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="আমার কি মেডিক্যাল মাস্ক পরা উচিত?"
+                    android:textSize="25dp"
+                    android:layout_margin="8sp"
+                    android:textColor="#F60909"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:text="করোনা ভাইরাসসহ অন্যান্য রোগের বিস্তার সীমিত পর্যায়ে রাখতে মেডিক্যাল মাস্ক সাহায্য করে। তবে এটার ব্যবহারই এককভাবে সংক্রমণ হ্রাস করতে যথেষ্ঠ নয়। নিয়মিত হাত ধোয়া এবং সম্ভাব্য সংক্রমিত ব্যক্তির সাথে মেলামেশা না করা এই ভাইরাস সংক্রমণের ঝুঁকি কমানোর সর্বোত্তম উপায়।"
+                    android:textColor="#0B0707"
+                    android:textSize="20dp"
+                    android:layout_margin="8sp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="শিশুরা কি ঝুঁকিতে?"
+                    android:textSize="25dp"
+                    android:layout_margin="8sp"
+                    android:textColor="#F60909"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFFFF"
+                    android:text="যে কোন বয়সের মানুষই এই ভাইরাসে আক্রান্ত হতে পারে। তবে একটি বিষয় লক্ষ্যণীয় যে, করোনা ভাইরাসে আক্রান্ত শিশুদের ক্ষেত্রে এখনও পর্যন্ত কোনও হতাহতের খবর পাওয়া যায়নি। প্রধানত: আগে থেকে অসুস্থ বয়স্ক ব্যক্তিদের ক্ষেত্রে এই ভাইরাস মারাত্মক হতে পারে। তবে শহরাঞ্চলের দরিদ্র শিশুদের ক্ষেত্রে এই ভাইরাসের পরোক্ষ প্রভাব রয়েছে। এসব প্রভাবের মধ্যে রয়েছে বিদ্যালয় বন্ধ থাকা, যা সম্প্রতি মঙ্গোলিয়ায় দেখা গেছে।"
+                    android:textColor="#0B0707"
+                    android:textSize="20dp"
+                    android:layout_margin="8sp"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="অতএব, সকলে নিজের কথা,পরিবারের কথা, দেশের কথা এবং দেশের মানুষের কথা চিন্তা করে সচেতন হোন এবং বেশী বেশী আল্লাহকে স্মরন করুন।"
+                    android:textSize="22dp"
+                    android:layout_margin="8sp"
+                    android:textColor="#02FA0F"
+                    />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="All Right Reserved Of Md Najmul Islam"
+                    android:textSize="17dp"
+                    android:layout_margin="8sp"
+                    android:textColor="#03A9F4"
+                    />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+</LinearLayout>

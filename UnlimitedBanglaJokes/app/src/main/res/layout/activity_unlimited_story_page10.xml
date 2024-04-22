@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage10"
+    android:background="#FFFFFF"
+    android:layout_margin="5dp"
+    android:padding="5dp"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:layout_margin="5dp"
+        android:padding="5dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১০"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="৪৬. আমাকে পুরস্কার দেয়ার মতো ভাঙতি টাকা\n
+রমার হাতব্যাগটা হারিয়ে গিয়েছিল। ব্যাগটা পেয়ে ফেরত দিতে এলো বিল্লাল-\n
+রমা : আশ্চর্য। আমি যখন ব্যাগটা হারিয়েছি, তখন ভেতরে একটা ৫০০ টাকার নোট ছিল, এখন ভেতরে ১০টা ৫০ টাকার নোট- এটা কেমন করে সম্ভব! \n
+সিফাত : সম্ভব। কারণ, এর আগে যখন আমি একজনের ব্যাগ ফেরত দিতে গিয়েছিলাম, তার কাছে আমাকে পুরস্কার দেয়ার মতো ভাঙতি টাকা ছিল না! \n
+৪৭. ৩০ দিনে ডাক্তার\n
+এক আমেরিকান ডাক্তার বাংলাদেশের নীলক্ষেতে একটা বই এর নাম দেখে তার হার্ট অ্যাটাক হয়ে গেলো …\n চিন্তা করেন তো বই এর নাম
+কি ছিল??? . \n কিভাবে ডাক্তার হবেন ….\n
+মাত্র ৩০ দিনে” \n
+\n
+৪৮. সোনার মূল্য দ্বিগুণ\n
+মালিক তার কর্মচারীটিকে বোকাসোকাই জানত। আর তাই-\n
+মালিক : আমি বাইরে যাচ্ছি, যদি কোনো ক্রেতা আসে তাহলে বলবি, সোনার মূল্য দ্বিগুণ।
+কর্মচারী : জি, ঠিক আছে।\n
+কিছুক্ষণ পর মালিক এসে-\n
+মালিক : আমি যেমন বলেছিলাম তেমন করেছিস তো।\n
+কর্মচারী : হ্যাঁ, এক লোক সোনা বিক্রি করতে এসেছিল। সে এক ভরি ৪৪ হাজার টাকা চাইল। আমি বললাম, ৮৮ হাজারের এক টাকাও কম দেয়া সম্ভব না।\n
+*** ১০ ভরি কিনে ফেলেছি\n
+\n
+৪৯. wrong number\n
+বল্টু তার বউ- কে কুমিল্লা থেকে ফোন করল।\n
+ফোনটা এক চাকর ধরল-\n
+চাকর : হ্যালো।\n
+বল্টু : ম্যাম সাহেবকে ফোনটা দে।\n
+চাকর : কিন্তু ম্যাম সাহেব তো সাহেবের সাথে বেড রুমে ঘুমাচ্ছে।\n
+বল্টু : মানে?? সাহেব তো আমি ।\n
+চাকর : আমি এখন কি করব?? \n
+বল্টু : দুইজনকে-ই গুলি করে মেরে ফেল ৫ লাখ টাকা দিব।\n
+চাকর দুইজন-\n
+কে গুলি করে মারার পর, \n
+চাকর : সাহেব, লাশ ২টা এখন
+কি করব?? \n
+বল্টু : লাশ ২টা বাড়ির পিছনের swimming pool এ ফেলে দে।\n
+চাকর : কিন্তু সাহেব, বাড়ির পিছনেতো কোন swimming pool নেই. \n
+, \n
+, \n
+, \n
+, \n
+, \n
+বল্টু : নেই??? ওহ sorry তাহলে wrong number!!! \n
+\n
+৫০. মরার পরে আমাদের নাম রাখা হয়\n
+একটি মুরগির বাচ্চা লাফাতে লাফাতে এসে মাকে জিজ্ঞেস করল-\n
+বাচ্চা : মা, মানুষের জন্ম হলে তাদের বাবা-মায়েরা কত নাম রাখে। কিন্তু আমাদের নাম নেই কেন? \n
+মুরগি : আমাদেরও নাম রাখা হয় বাবা, তবে মরার পর। মরার পরে আমাদের নাম রাখা হয়।
+বাচ্চা : কী নাম রাখা হয়? \n
+মুরগি : চিকেন টিক্কা, চিকেন কাবাব, চিকেন পাকোড়া, চিকেন পক্স, চিকেন কোরমা, চিকেন তন্দুরি ইত্যাদি! আর যে মুরগি মানুষে মারার আগে নিজে নিজে মরে যায়, তার নাম দেয় মরা মুরগি।\n
+\n
+"
+                android:textSize="22dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

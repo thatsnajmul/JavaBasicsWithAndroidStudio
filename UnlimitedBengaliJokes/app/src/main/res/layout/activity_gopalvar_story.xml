@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GopalvarStory"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="গোপাল ভাঁড়ের জোকস"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="8dp"
+                android:textColor="#FFFFFF"
+                android:textAlignment="gravity"
+                android:gravity="center"
+                android:background="#EF0E0E"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/gopal"
+                android:scaleType="fitXY"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০১) ছোটবেলা গোপাল ভাঁড় কোনো বিয়ের অনুষ্ঠানে গেলে বুড়োরা তাকে ক্ষেপাত আর হাসত,\n ‘গোপাল, এর পর তোমার পালা।’শুনে গোপালের খুব রাগ হত। \nবুড়োদের কিভাবে জব্দ করা যায়, সেই পথ খুঁজতে লাগল এবং এক সময় পেয়ে গেল। \nশবদাহ আর শ্রাদ্ধের অনুষ্ঠানে গিয়ে ঐসব বুড়োদের বলতে লাগল,‘এর পর তোমার পালা!’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০২) গোপাল ভাঁড় একবার তার ছেলেকে নিয়ে মেলায় বেড়াতে গিয়ে ছেলেকে হারিয়ে ফেলে।\n
+
+ছেলে তখন একটুও না ঘাবড়ে ‘গোপাল, গোপাল’ বলে চেঁচাতে থাকে। ছেলের চিৎকার শুনে গোপাল ছুটে এসে ধমক দেয়
+
+ছেলেকে, ‘ছিঃ ছিঃ, আমার নাম ধরে ডাকছিস,বাবা বলেডাকতে পারিস না?’\n
+
+ছেলে তখন বলল, ‘হুঁ, বাবা বলে ডাকি আর মেলার সব লোক ছুটে আসুক!’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৩)
+
+একদিন সকালে রাজা কৃ্ষ্ণচন্দ্র মজুমদার প্রাতঃ ভ্রমনে বের হলেন গোপাল ভাড়কে নিয়ে।গোপাল তামাক খাচ্ছিলো দেখে রাজা খুবই বিরক্ত হলেন।পথে দেখলেন,তামাক বাগানে একটা গাধা আগাছা খাচ্ছে,কিন্তু তামাক পাতায় মুখও দিচ্ছেনা।\n রাজা গোপালকে বললেন,'দেখেছো হে গোপাল,গাধা ঘাস খায় ঠিকই,কিন্তু তামাক মুখেও নেয়না।'\n হেসে গোপাল বলে,'রাজামশাই ঠিকই বলেছেন।কেবল গাধারাই তামাক খায়না'
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="
+(০৪)
+
+গোপালের তখন বয়স হয়েছে। চোখে ভালো দেখতে পারে না।\n রাজা কৃষ্ণচন্দ্র বললেন, কী গোপাল, গতকাল আসনি কেন?\n আজ্ঞে চোখে সমস্যা হয়েছে। সবকিছু দুটো দেখি। কাল এসেছিলাম। এসে দেখি দুটো দরবার। কোনটায় ঢুকব, ভাবতে ভাবতেই।\n এ তো তোমার জন্য ভালোই হলো। তুমি বড়লোক হয়ে গেলে। আগে দেখতে তোমার একটা বলদ, এখন দেখবে দুটো বলদ।\n ঠিকই বলেছেন মহারাজ। আগে দেখতাম আপনার দুটো পা, এখন দেখছি চারটা পাঠিক আমার বলদের মতোই
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৫)
+
+একবার রাজা মশাই শক্ত করে গোপাল ভাঁড়ের হাত আঁকড়ে ধরে বললেন, কী গোপাল, বুদ্ধির জোরে কি আর সব হয়? মাঝে গায়ের জোরও লাগে। পারলে হাতখানা ছোটাও দেখি বাপু। দেখি, কেমন তোমার শক্তি!রাজা ভেবেছিলেন, গোপাল ভাঁড় হয়তো হাত ধরে টানাহেঁচড়া করবে, মোচড়ামুচড়ি করবে।\n রাজাকে অবাক করে দিয়ে সে এসবের কিছুই করল না! শুধু বিড়বিড় করে রাম রাম বলতে লাগল।\n রাজা মশাই: কী হলো, অত রাম রাম করছ কেন?\n গোপাল বলল, রাজা মশাই, গুরুজনের মুখে শুনেছি, রামনাম জপলে ভূত ছাড়ে! রাজা সঙ্গে সঙ্গে গোপালের হাত ছেড়ে দিলেন!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৬)
+
+একদিন গোপাল ভাঁড় রাজসভাতে ঢুকতেই মহারাজ কৃষ্ণচন্দ্র বললেন, 'গোপাল তুমি এখন থেকে আমায় বেশ সম্মান করে চলবে ।\n
+
+তোমার আর আমার তফাত কত জানো' ?\n
+
+গোপাল চট করে তার আসন ছেড়ে উঠে মহারাজের আসন ও নিজের আসনের ব্যবধান মেপে বলল, 'খুব বেশি তফাত নয় হুজুর,মাত্র দেড় হাত' ।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৭)
+
+
+
+বেড়াতে বেরিয়ে রাজা কৃষ্ণচন্দ্র একবার গোপালের হাত চেপে ধরে আস্তে আস্তে মোচড়াতে লাগলেন।\n
+
+গোপাল: আমার হাত নির্দোষ, ওকে রেহাই দিন।\n
+
+রাজা: জোর করে ছাড়িয়ে নাও।\n
+
+গোপাল: সেটা বেয়াদবি হবে।\n
+
+রাজা: উহু, তাহলে হাত ছাড়ব না।\n
+
+গোপাল তখন যে রোগের যে দাওয়াই বলে রাম নাম জপতে থাকলেন।\n
+
+রাজা: এতে কি আর কাজ হবে? দাওয়াই কোথায়?\n
+
+গোপাল: রাম নাম জপাই তো মোক্ষম দাওয়াই।\n
+
+রাজা: মানে?\n
+
+গোপাল: পিতামহ, প্রপিতামহের আমল থেকে শুনে আসছি, রাম নাম জপলে ভূত ছাড়ে।
+
+রাজা গোপালের হাত ছেড়ে দিলেন সঙ্গে সঙ্গে।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৮)
+
+গোপাল একবার গ্রামের মোড়ল হয়েছিল।\n তো একদিন ভোরবেলায় এক লোক এসে ডাকতে লাগল, ‘গোপাল? গোপাল?’\n গোপাল ভাঁড় কোনো উত্তর না দিয়ে শুয়েই রইল।\n এবার লোকটা চিৎকার করে ডাকতে লাগল, ‘মোড়ল সাহেব, মোড়ল সাহেব।’\n এবারও গোপাল কোনো কথা না বলে মটকা মেরে শুয়ে রইল।\n গোপালের বউ ছুটে এসে বলল, ‘কী ব্যাপার, লোকটা মোড়ল সাহেব মোড়ল সাহেব বলে চেঁচিয়ে পড়া মাত করছে, তুমি কিছুই বলছ না!’\n গোপাল কিছুক্ষণ চুপ করে রইল। তারপর বলল, ‘আহা, ডাকুক না কিছুক্ষণ, পাড়ার লোকজন জানুক আমি মোড়ল হয়েছি।’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৯)
+
+একটি লোকের কাছ থেকে গোপাল কিছু টাকা ধার নিয়েছিল ।লোকটার সাথে গোপালের দেখা হলেই-আজ দেব, কাল দেব-বলে গোপাল কাটিয়ে দিত
+
+ ।\n একদিন লোকটা গোপালকে চেপে ধরলো । বললো, গোপাল ; আজ যদি টাকা না দিস ,তাহলে আমি তোর শ্রাদ্ধ করবো ।\n তখন গোপাল বললো -তাহলে তো ভালই হল ।
+
+আমার ছেলের বদলে না হয় আপনিই আমার শ্রাদ্ধ করবেন ।এতে ছেলের কিছু টাকা পয়সা বাঁচবে।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১০)
+
+গোপাল আর গোপালের স্ত্রীর কথোপকথন-\n
+
+গোপালের স্ত্রীঃ কি ব্যাপার? চশমা পরে ঘুমাচ্ছো কেন?\n
+
+গোপালঃ জানোই তো চোখে ছানি পড়েছে। চশমা ছাড়া স্বপ্ন দেখবো কিভাবে?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১১)
+
+গোপাল ভাঁড়ের ভাইপো আর তার স্ত্রীর মধ্যে ভীষণ ঝগড়া বেধেছে। মধ্যস্থতা করতে এগিয়ে গেলেন গোপাল। বললেন, বলি কী নিয়ে এত ঝগড়া হচ্ছে শুনি?\n গোপালের ভাইপো বলল, দেখুন তো কাকা, আমি আগামী বছর একটা দুধেল গাই কিনব বলেছি
+
+।\n আর আমার স্ত্রী বলছে, সে নাকি গাইয়ের দুধ দিয়ে পায়েস রাঁধবে।\n
+
+ভাইপোর স্ত্রীও সমান তেজে চেঁচিয়ে উঠল।\n
+
+দু হাত তুলে দুজনকে থামতে ইঙ্গিত করে বললেন গোপাল, আস্তে আস্তে! গাধা নাকি তোরা? দুজন একটু ঠান্ডা হলে গোপাল ভাইপোকে বললেন, আরে গাধা, তোর বউয়ের পায়েস রাঁধা তো পরের কথা। আমি যে বাড়ির পেছনে সবজির বাগান করেছি, সেসব যে তোর গরু খাবে, সে খেয়াল আছে?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১২)
+
+গোপাল যাচ্ছে শ্বশুরবাড়ি। মাথার ওপর গনগনে সূর্য। গরমে অতিষ্ঠ হয়ে গোপাল এক গাছের নিচে বিশ্রাম নিতে বসল। বেশি গরম লাগায় ফতুয়াটা খুলে পাশে রেখে একটু আয়েশ করে বসল। বসে বিশ্রাম নিতে নিতে কখন যে ঘুমিয়ে পড়ল, নিজেই জানে না। ঘুম যখন ভাঙল গোপাল দেখে, তার ফতুয়াটা চুরি হয়ে গেছে। হায় হায়! এখন কী হবে! খালি গায়ে তো আর শ্বশুরবাড়ি ওঠা যায় না। কী আর করা। সে হাঁটতে হাঁটতে মনে মনে বলতে লাগল, ‘হে ভগবান, রাস্তায় অন্তত ১০টি মুদ্রা যেন কুড়িয়ে পাই, তাহলে পাঁচ মুদ্রায় আমার জন্য একটা ভালো ফতুয়া কিনতে পারি। আর তোমার জন্য পাঁচটি মুদ্রা মন্দিরে দান করতে পারি•••।’ আর কী আশ্চর্য! ভাবতে ভাবতেই দেখে, রাস্তার ধারে কয়েকটি মুদ্রা পড়ে আছে। খুশি হয়ে উঠল গোপাল, গুনে দেখে পাঁচটি মুদ্রা!
+
+ \nগোপাল স্বগত বলে উঠল, ‘হে ভগবান, আমাকে তোমার বিশ্বাস হলো না, নিজের ভাগটা আগেই রেখে দিলে?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৩)
+
+একদিন এক প্রতিবেশী গোপাল ভাঁড়ের কাছে এসে :
+
+‘আমাকে একটা চিঠি লিখে দাও।’\n
+
+‘আমি চিঠি লিখতে পারবো না, আমার পায়ে ব্যথা।’\n প্রতিবেশী আশ্চর্য হয়ে বললো, ‘চিঠি তো লিখবে হাত দিয়ে, পায়ে ব্যথা তাতে কী হয়েছে?’\n
+
+‘কারণ আমি অতোদূর হেঁটে যেতে পারবো না।’\n
+
+‘অতোদূর হাঁটতে পারবে না মানে?’\n
+
+‘মানে আমার লেখা চিঠি আমি ছাড়া আর কেউ পড়তে পারবে না। আমার হাতের লেখা খুব খারাপ তো। যাকে চিঠি পাঠাবে, তাকে তো আমাকেই পড়ে দিয়ে আসতে হবে, তাই না? পায়ে ব্যথা নিয়ে যাবো কিভাবে?’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৪)
+
+এক পাড় মাতাল রাস্তা দিয়ে যেতে যেত গোপালের বাড়ির রোয়াকে বসে হেড়ে গলায় গান জুড়ে দিল।\n গোপাল তার ছেলেদের ডেকে বললে, বেটাকে বেধে ঘা কতক দে তো। এপাধা নি ব্যাটাকে দে প্যাদানি।\n
+
+মাতাল ফিক করে হেসে বলল কি বাওয়া। তোমারও কি নেশা হল নাকি? যা নয় তাই বলতে শুরু করলে। আমি কি মনের সুখে গান গাইতেও পারব ‍না বাওয়া। একি মগের মল্লুক না কি, যা বলবে তাই শুনতে হবে? আর বাঁধবে কেন ঠাকুর- আমি কি ভোগের চাল কলা ফল না কি?\n
+
+গোপাল এই কথা শুনে না হেসে পারল না। গোপালের হাসি দেখে মাতাল গান ছেড়ে শুরু করল তখন তিড়িং বিড়িং নাচ। পাধা নি।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৫)
+
+গোপালের স্ত্রী নিজেই দেখাশোনা করে বড় মেয়েকে এক বামুনের বাড়িতে বিয়ে দিয়েছিল। সেই মেয়ের মেয়ে বড় হোল একদিন। তারই বিয়ের নিমন্তন্নে গোপালেরা উপস্থিত।\n স্ত্রী একান্তে ডেকে বললে, হ্যাঁ গা, আমাদের বড় মেয়ের জামাই নাকি জাতে নাপিত বামুন নয়। কিন্তু সে সম্বন্ধ তুমি কিছু জান কি?\n স্ত্রীর কথা শুনে গোপাল বললে, আর চেপে যাও- আমিও আসলে বামুন নই, আমি জাতিতে নাপিত।
+
+ তোমার বাপের কাছে জাত ভাঁড়িয়ে তোমাকে বিয়ে করেছি
+
+। তুমি জাতকুল হারালেও আমি মোটেই জাতকুল হারাইনি। জাতকুল আবার কি? ধন মানেই সব। যার ধন আছে সেই সমাজের গণ্যমান্য ব্যক্তি। অতএব, এর জন্য তোমার ভাবনা চিন্তা করার কিছুই নেই
+
+। তুমিও হয়ত এই রকম কোন তাঁতির মেয়ে হবে।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৬)
+
+গোপাল একবার দূর দেশে বেড়াতে যাবে বহুদিন ভাড়াটে বাড়িতে রয়েছে, একে একে অনেক আসবাবপত্র জমা হয়েছে। সে সব আসবাব সঙ্গে করে নিয়ে যাওয়া অসম্ভব, অথচ বেচে যেতেই ইচ্ছে নেই। হেকে পয়সা পাবে। বেচে গেলে টাকা পয়সা যা পাওয়া যাবে এখন, তাতে ফিরে এলে সে টাকায় তো আর খরিদ করা যাবে না, ভালো ভালো আসবাবপত্র প্রায় সব গোপাল সকলের কাছ থেকে দান হিসাবে পেয়েছে তা তো বেচা উচিত নয়। তাহলে লোক কি বলবে? তাই কি করা যায় এ কথাই বার বার ভাবছে। আবার আসবাবপত্র রেখে যাওয়ার জন্যে ওই ভাড়া বাড়িটা বজায় রাখার কোনো মানে হয় না। কারণ অনেক টাকা ভাড়া গুনতে হবে। ভেবে ভেবে অবশেষে একটা ফন্দী বের করলে। গোপাল একটা বড় বন্ধকী দোকানে আসবাবগুলো নিয়ে গিয়ে বন্ধক দিলে। অনেক টাকা দামের আসবাবগুলো নিয়ে গিয়ে বন্ধক দিলে মাত্র চারশো টাকায়। দোকানদার ওইসব আসবাব রেখে পাঁচ হাজার টাকাও দিতে রাজি ছিল। কিন্তু গোপাল ভাবল টাকার চেয়ে জিনিস রাখারই গরজ তার। যত কম টাকা নেওয়া যায়, সুদ টানতে হবে তত কম। সেজন্য হিসেব করে দেখলে- চারশো টাকার দরুন মাসে তার যে সুদ দিতে হবে, একটা ঘর ভাড়া করে জিনিসগুলো রেখে যেতে তাকে মাসে মাসে অনেক বেশি ভাড়া গুনতে হবে। গোপাল বেশ কিছুদিন পর ফিরে এসে টাকা দিয়ে আবার আসবাবগুলি ছাড়িয়ে নতুন ঘরে উঠল।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৭)
+
+রাজা কৃষ্ণচন্দ্র একবার পেয়াদাকে ডেকে বললেন, ওরে ভজহরি ব্যাপারীকে একবার ডেকে আনবি তো। ভজহরি সরেস গুড়ের কারবার করত।\n পেয়াদা ব্যাপারীকে একেবারে দড়ি দিয়ে বেঁধে রাজসভায় হাজির করলে।\n ভজহরি গোপালকে ধারে মাল দিতে চাইত না, তাই তার ওপর গোপাল চটে ছিল। পেয়াদা তাকে আজ একেবারে রাজসভায় বেঁধে এনেছে বলে গোপাল মনে মনে বেশ খুশিই হল।\n বলল,- বেশ হয়েছে শালাকে বেধেই এনেছে।\n রাজা কিন্তু পেয়াদার ওপর চটে গিয়ে বললেন, আমি ভজহরিকে ডেকে আনতে বললুম, আর তুই কিনা একেবারে বেধে নিয়ে এলি? তোকে আমি বরখাস্ত করব
+
+ তোর বেশ বাড় হয়েছে, কেন তুই বেধে এনেছিস- আগে কৈফিয়ত দে, নয়তো এখনি তোকে বরখাসত করলাম। তোর কিছু বলার থাকে বল।\n পেয়াদা কাঁদতে কাঁদতে বলল, আর করব ‍না হুজুর।
+
+এবোরের মত বেয়াদপি মাপ করুন। নাহলে খেতে না পেয়ে মরে যাবো।\n
+
+গোপাল পেয়াদা পক্ষ নিয়ে ওকালতি করে মোলায়েম স্বরে বললে, হুজুর একে বরখাস্ত করবেন না- এ হচ্ছে জাত পেয়াদা,পেয়াদারা ধরে ‍  ,আনতে বললে বেধেই আনে – আর এ ডেকে আনতেই বলায় বেধে আনায় প্রকৃত পেয়াদার মতোই কাজ করেছে
+
+ যদি জাত পেয়াদা না হত সে কখনই বেঁধে আনত না। কথাটা ঠিক কিনা এবার মহারাজ আপনি বিবেচনা করে দেখুন।\n গোপালের কথায় রাজা হেসে ফেললেন এবং অতি করিৎকর্মা পেয়াদাকে ক্ষমা করে দিলেন সেবারের মত। বললেন, এবারের মত অবশ্য মাপ করলাম, আর যেন কখনও এমন না হয় মনে রাখবি।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৮)
+
+রামবাবুর সাথে গল্প করতে করতে গোপালের খুব তেষ্টা পেয়েছে। সে ওর ভৃত্যকে ডেকে ঠাস ঠাস তিনটে চড় লাগিয়ে দিয়ে বলল, ‘যা এক ঘটি জল নিয়ে আয়! ঘটি যেন না ভাঙে।’\n ব্যাপার দেখে রামবাবু বললেন, ‘গোপাল, ঘটি ভাঙার আগেই ওকে চড় মেরে বসলে যে?’ গোপাল জবাব দিলো, ‘আরে ভেঙে ফেলার পর মেরে কি আর লাভ আছে? এর চেয়ে আগেই মেরে দিলাম। সাবধান থাকবে।’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৯)
+
+গোপাল একবার তার দুই বেয়াই-এর সাথে এক জায়গায় যাচ্ছিল। পথের ধারে দক্ষিণমুখো হয়ে সে প্রস্রাব করতে বসলে এক বেয়াই বলল, “আরে করেন কি, আপনি জানেন না, দিনের বেলা দক্ষিণমুখো হয়ে প্রস্রাব করতে নেই, শাস্ত্রে নিষেধ আছে যে!”\n অপর বেয়াই বলল, “শুনেছি উত্তরমুখো হয়েও নাকি ওই কাজটি করতে নেই।”\n
+
+গোপাল বলল, “ওসব পন্ডিতলোকদের বচন, আমি গাঁইয়া মুখ্যুসুখ্যু মানুষ, ওসব বাছবিছার আমি করি না, সব মুখেই প্রস্রাব করি।\n বড় বেয়াই যে মুখে বললেন সে মুখে করি আর ছোট বেয়াই যে মুখে বললেন সে মুখেও করি।”\n গোপালের মুখের কথা শুনে বেয়াইদের মুখে আর কথা নেই।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(২০)
+
+গোপাল একদিন পেটব্যথার যন্ত্রণায় ভীষণ কষ্ট পাচ্ছিল, সে এক ভীষণ যন্ত্রণা। যন্ত্রণায় অস্থির হয়ে সে রাজসভাতেই শুয়ে পড়ে বলতে লাগস- দোহাই মা কালী! আমার পেটের যন্ত্রণা কমিয়ে দাও মা, এ যন্ত্রণা আর সহ্য করতে পারছি না। মা- মাগো, আমার যন্ত্রণা ভালো করে দাও- আমি সাত দিনের মধ্যে তোমার কাছে জোড়া পাঁঠা বলি দেব। কিছুক্ষণ পরে গোপালের যন্ত্রণার উপশম ঘটল, সে উঠে বসে একটা পান খেয়ে বলল- পেটের যন্ত্রণা তো এমনিতেই কমে যেত, এতে আর মা কালীর কেরামতি কোথায়? তবে আর মা কালীর কাছে জোড়া পাঁঠা বলি দিতে যাব কোন্ দুঃখে? গোপাল দিব্যি খোশ মেজাজে গল্প করতে লাগল। কিন্তু আবার কিছুক্ষণ পরে ভীষণ যন্ত্রণা শুরু হলো।
+
+গোপাল কাটা ছাগলের মতই দাপাতে দাপাতে বলল- ওমা, মা কালী, আমি কি আর তোমায় জোড়া পাঁঠা দিতাম না? আমি তো উপহাস করছিলাম\n
+
+ এত বোঝ মা, উপহাস বোঝ না?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

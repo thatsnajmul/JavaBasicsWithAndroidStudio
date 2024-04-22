@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DoctorPatientStory"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ডাক্তার আর রোগীর জোকস"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="8dp"
+                android:textColor="#FFFFFF"
+                android:textAlignment="gravity"
+                android:gravity="center"
+                android:background="#EF0E0E"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/doctor_patient"
+                android:scaleType="fitXY"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০১)
+
+জয়নাল সাহেব কানে কম শোনেন। হেয়ারিং এইড কিনতে তিনি গেলেন দোকানে।\n
+\n
+জয়নাল: ভাই, হেয়ারিং এইডের দাম কত?\n
+\n
+দোকানদার: পাঁচ টাকা দামের আছে, পাঁচ হাজার টাকা দামেরও আছে।\n
+\n
+জয়নাল: আমাকে পাঁচ টাকারটাই দেখান। দোকানদার জয়নালের কানে একটা প্লাস্টিকের খেলনা হেয়ারিং এইড গুঁজে দিলেন। জয়নাল আশ্চর্য হয়ে বললেন, এটার ভেতর তো কোনো যন্ত্রপাতিই নেই। এটা কাজ করে কীভাবে?\n
+\n
+দোকানদার: সত্যি বলতে, এটা কোনো কাজ করে না। তবে আপনার কানে এই জিনিস দেখলে লোকজন এমনিতেই আপনার সঙ্গে প্রয়োজনের চেয়ে উঁচু গলায় কথা বলবে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০২)
+
+হাঁস শিকারে গেছেন তিন চিকিৎসক। তাঁদের মধ্যে শিশু রোগ বিশেষজ্ঞ বললেন, হুম্, দেখতে হাঁসের মতোই লাগছে, হাঁসের মতোই ডাকে, হাঁসের মতো ওড়ে। ওটা একটা হাঁসই হবে। তিনি গুলি ছুড়লেন, ততক্ষণে পাখিটা চলে গেছে অনেক দূর।মেডিসিন বিশেষজ্ঞ তাঁর বইটা বের করলেন, হাঁসের ছবি দেখলেন।\n
+\n
+হাঁসের বৈশিষ্ট্য গুলোতে একবার চোখ বুলালেন। বললেন, হুম্। ওটা একটা হাঁস। গুলি ছুড়লেন।\n
+\n
+ কিন্তু এবারও পাখি ততক্ষণে নাগালের বাইরে চলে গেছে।শল্য চিকিৎসক গুলি ছুড়লেন। ধপ করে নিচে পড়ল পাখিটা। চিকিৎসক বললেন, ‘কাছে গিয়ে দেখো তো, ওটা একটা হাঁস কি না!’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৩)
+
+হন্তদন্ত হয়ে হাসপাতাল থেকে দৌড়ে পালাচ্ছিলেন এক রোগী। দরজার সামনে তার পথ রোধ করলেন হাসপাতালের দারোয়ান।\n
+\n
+দারোয়ান: কী হলো? কোথায় যাচ্ছেন?\n
+\n
+রোগী: আর বলবেন না! নার্স বলছিল, ‘ভয় পাবেন না। এটা খুবই সাধারণ একটা অপারেশন। কিছুক্ষণের মধ্যেই হয়ে যাবে।’\n
+\n
+দারোয়ান: হ্যাঁ, সে তো ভালো কথাই বলেছে। নার্স আপনাকে সাহস দিচ্ছিল।\n
+\n
+রোগী: আরে বুদ্ধু, সে আমার সঙ্গে নয়, ডাক্তারের সঙ্গে কথা বলছিল!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৪)
+
+জগাই একবার খবর পেল, শহরে এমন একজন ডাক্তার এসেছেন, যিনি সব রকমের রোগ সারিয়ে দিতে পারেন। জগাই মনে মনে বলল, ব্যাটা নির্ঘাত একটা ঠকবাজ। আজই তাঁর জারিজুরি খতম করতে হবে।সে গেল ডাক্তারের কাছে।\n
+
+জগাই: ডাক্তার সাহেব, আমি কোনো কিছুরই স্বাদ পাই না। এখন আপনি কী ব্যবস্থা নেবেন বলুন।\n
+
+ডাক্তার: হুম্। তোমাকে ৪৩ নম্বর বোতলের ওষুধটা খাওয়াতে হবে।জগাইকে ওষুধ দেওয়া হলো -। সঙ্গে সঙ্গে চিৎকার করে উঠল সে, ‘ইয়াক! এটা তো গোবর।’\n
+
+ডাক্তার বললেন, ‘হুম্, তুমি তাহলে স্বাদ বুঝতে পারছ।’পরদিন রেগেমেগে আবার সেই ডাক্তারের কাছে গেল জগাই।\n
+
+জগাই: ডাক্তার, আমার কিছুই মনে থাকে না। এমনকি গতকাল কী ঘটেছিল, তাও মনে নেই। কী ওষুধ দেবেন আপনি?\n
+
+ডাক্তার: হুম্, ৪৩ নম্বর বোতলের ওষুধ…\n
+
+জগাই: মনে পড়েছে, মনে পড়েছে! আমার ওষুধ লাগবে না! বলেই দৌড়ে পালাল সে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৫)
+
+ডাক্তার সাহেব বললেন রোগীকে, ‘জিব দেখান।’রোগী জিব দেখালেন।\n
+
+ডাক্তার: আমাকে না, ওই জানালার সামনে গিয়ে বাইরের দিকে মুখ করে জিব দেখান।\n
+
+রোগী: কেন?\n
+
+ডাক্তার: কারণ, আমি আমার প্রতিবেশীকে একদম দেখতে পারি না। ব্যাটা বদের বদ!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৬)
+
+রোগী: ডাক্তার সাহেব, আমার খুব দ্রুত রাগ উঠে যায়। কিছুতেই সহজে রাগ নিয়ন্ত্রণ করতে পারি না। ডাক্তার: কবে থেকে আপনার এই সমস্যা?\n
+
+রোগী: কবে থেকে, সেটা আপনাকে বলতে হবে? আপনি ডাক্তার হয়েছেন, এই সহজ ব্যাপারটা বোঝেন না? বলি, কী ছাইপাঁশ পড়ে ডাক্তার হয়েছেন…?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৭)
+
+রোগী: ডাক্তার সাহেব, প্রতিদিন সকালে ঘুম থেকে ওঠার পর এক ঘণ্টা আমার মাথা ব্যথা করে। সমাধান কি, বলুন তো?\n
+
+ডাক্তার: এক ঘণ্টার বেশি ঘুমানোর চেষ্টা করুন!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৮)
+
+একদল বাচ্চা হৈচৈ করে বল খেলছে । আরেকটা বাচ্চা একপাশে একা দাঁড়িয়ে আছে । এক মনোবিজ্ঞানী দেখলেন এই বাচ্চাটা বিষন্নতা আর দ্বিধাদ্বন্দ্বে ভুগছে । মনোবিজ্ঞানী মনে মনে চ্যালেঞ্জ গ্রহণ করলেন এই বাচ্চাকে কাউন্সিলিং-এর মাধ্যমে চিকিৎসা করে রোগমুক্ত করার চেষ্টা করবেন । তিনি কাছে গিয়ে তাকে বললেন- “তুমি আমার বন্ধু হবে ?”\n
+
+বাচ্চা -“ না । যান ।”\n
+
+মনোবিজ্ঞানী – “আমার সাথে বন্ধুত্ব করতে তোমার সংকোচ হচ্ছে খোকা ?”\n
+
+বাচ্চা -“ হ্যাঁ । যান ।”\n
+
+মনোবিজ্ঞানী – “ আমার মনে হয় তুমি অনেক মনোকষ্টে আছো ।”\n
+
+বাচ্চা -“ না । যান ।”\n
+
+মনোবিজ্ঞানী – “ তুমি কিন্তু অন্য বাচ্চাদের সাথে একসঙ্গে দৌড়াদৌড়ি করছো না ।”\n
+
+বাচ্চা -“ হ্যাঁ । যান ।”\n
+
+মনোবিজ্ঞানী – “ কেন ?”\n
+
+বাচ্চা(বিরক্ত হয়ে) -“ আমি গোলকিপার ।”
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৯)
+
+চিকিৎসক: আপনার দাঁত ভাঙল কী করে?\n
+
+রোগী: আর বলবেন না, আমার বউয়ের বানানো রুটিগুলো এত শক্ত হয়…\n
+
+চিকিৎসক: বউকে বলবেন, যেন একটু নরম করে রুটি বানায়।\n
+
+রোগী: বলেছিলাম বলেই তো এই দশা!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১০)
+
+রোগী: ডাক্তার সাহেব, আমাকে বাঁচান!\n
+
+ডাক্তার: কী হয়েছে আপনার?\n
+
+রোগী: আমি পাগল হয়ে যাচ্ছি। রাতে খাটে ঘুমাতে গেলে মনে হয় খাটের নিচে কেউ বসে আছে। খাটের নিচে গেলে মনে হয় খাটের ওপর কেউ বসে আছে। এভাবে ওপর-নিচ করে করে আমার রাত পেরিয়ে যায়।\n
+
+ডাক্তার: হু, বুঝতে পেরেছি। আপনি দুই মাস প্রতি সপ্তাহে তিনবার আমার চেম্বারে আসুন, আপনার রোগ ভালো হয়ে যাবে।\n
+
+রোগী: ইয়ে মানে, আপনার ভিজিট যেন কত?\n
+
+ডাক্তার: ২০০ টাকা।\n
+
+দুই সপ্তাহ পর রোগীর সঙ্গে দেখা হলো ডাক্তারের।\n
+
+ডাক্তার: কী হলো, আপনি যে আর এলেন না?\n
+
+রোগী: ধুর মিয়া, একজন কাঠমিস্ত্রি ২০ টাকা দিয়ে আমার সমস্যা সমাধান করে দিয়েছে। আপনাকে অতবার ২০০ টাকা দিতে যাব কেন?\n
+
+ডাক্তার: কীভাবে?\n
+
+রোগী: আমার খাটের পায়াগুলো কেটে ফেলেছে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১১)
+
+এক রাতে ডাক্তারের বাড়িতে ফোন করলেন এক ভদ্রমহিলা।\n
+
+ভদ্রমহিলা: ডাক্তার সাহেব, আমাকে জলদি ওজন কমানোর একটা উপায় বাতলে দিন। আমার স্বামী আমার জন্মদিনে একটা সুন্দর উপহার দিয়েছে, কিন্তু আমি উপহারটার ভেতর ঢুকতেই পারছি না!\n
+
+ডাক্তার: কোনো চিন্তা করবেন না। আপনি কাল সকালে আমার অফিসে একবার আসুন। ওষুধ দিয়ে দেব। খুব শিগগির আপনার স্বামীর দেওয়া জামাটা আপনি পরতে পারবেন।\n
+
+ভদ্রমহিলা: জামার কথা কে বলল? আমি তো গাড়ির কথা বলছি!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১২)
+
+রোগী: কী হলো, ডাক্তার সাহেব, আপনি আমাকে দুটো প্রেসক্রিপশন দিলেন যে?\n
+
+ডাক্তার: একটা প্রেসক্রিপশন দিয়েছি যাতে আপনি ভালো বোধ করেন।\n
+
+রোগী: আর অন্যটা?\n
+
+ডাক্তার: অন্যটা দিয়েছি যাতে ওষুধ কোম্পানিগুলো ভালো বোধ করে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৩)
+
+রোগী: ডাক্তার সাহেব, আমার দুই সপ্তাহ ধরে ঠান্ডা, জ্বর, মাথাব্যথা, পেটব্যথা, দাঁতে ব্যথা...।\n
+
+ডাক্তার: কোনো সমস্যা নেই, ওষুধ লিখে দিচ্ছি, সময়মতো খেয়ে নেবেন।কিছুদিন পর আবার সেই রোগী ডাক্তারের চেম্বারে হাজির।\n
+
+রোগী: ডাক্তার সাহেব, আমার অসুখ তো ভালো হলো না।\n
+
+ডাক্তার: ঠিক আছে, আপনাকে কিছু পরীক্ষা করতে দিচ্ছি। পরীক্ষাগুলো করিয়ে নিয়ে আমার সঙ্গে দেখা করুন।পরীক্ষা-নিরীক্ষা করে ডাক্তার আবারও ওষুধ দিলেন, কিন্তু এবারও ফলাফল শূন্য!\n
+
+রোগী: ডাক্তার সাহেব, এবারও তো কোনো উপায় হলো না! আমার রোগটাই তো ধরা যাচ্ছে না।\n
+
+কিছুক্ষণ ভেবে নিয়ে\n
+
+ডাক্তার বললেন, ‘হু, আপনি এক কাজ করুন। পাক্কা এক ঘণ্টা ঠান্ডা পানিতে ডুব দিয়ে বসে থাকুন।’\n
+
+রোগী: বলেন কী! তাহলে তো আমার নিউমোনিয়া বেঁধে যাবে!\n
+
+ডাক্তার: আমি অন্তত নিউমোনিয়ার চিকিৎসাটা করতে পারব!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৪)
+
+ডাক্তার: আমি অত্যন্ত দুঃখিত। আপনার জন্য দুটো খবর আছে। একটা খারাপ খবর, আরেকটা খুবই খারাপ খবর!\n
+
+রোগী: কী খবর, বলুন?\n
+
+ডাক্তার: আপনার পরীক্ষা-নিরীক্ষার ফলাফল বলছে, আপনি মাত্র ২৪ ঘণ্টা বাঁচবেন।\n
+
+রোগী: এর চেয়েও খারাপ খবর আর কী হতে পারে?\n
+
+ডাক্তার: প্রথম খবরটা দেওয়ার জন্য আমি আপনাকে গতকাল থেকে খুঁজছি!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৫)
+
+এক চিত্রনায়িকা গেছেন ডাক্তারের কাছে।\n
+
+ডাক্তার: বাহ্! আপনার ওজন তো দেখছি আগের চেয়ে এক কেজি কমেছে!\n
+
+চিত্রনায়িকা: হু, এমনটাই হওয়ার কথা।\n
+
+ডাক্তার: কেন?\n
+
+চিত্রনায়িকা: কারণ, আমি আজকে মেকআপ করিনি!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৬)
+
+বল্টু নতুন এক হাসপাতালে ডাক্তার হিসেবে নিয়োজিত হলো। বল্টু একটা ফুলের মালা হাতে নিয়ে এক
+
+রোগীর অপারেশান করতে ডুকছে।\n
+
+মালা দেখে রোগীর প্রশ্ন : “অপারেশানের সময় মালা লাগে নাকি…? ফুলের মালা কিসের জন্য…???”\n
+
+ডাক্তার বল্টু : এইটা আমার ডাক্তারী জীবনের প্রথম অপারেশন। যদি সাকসেস হয়,
+
+তাহলে এই ফুলের মালা আমার জন্য, আর যদি না হয় তাহলে এই মালা তোমার জন্য।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৭)
+
+বল্টু প্রতিদিন বিকেলে এসে ডাক্তারখানার সামনে দাঁড়িয়ে থাকে আর হাঁ করে তাকিয়ে মেয়ে দেখে।\n
+
+বেশ কিছুদিন লক্ষ্য করার পর ডাক্তারবাবু একদিন এসে বল্টু’কে জিজ্ঞেস করলো…\n
+
+ডাক্তারঃ কী ব্যাপার মশাই,
+
+আপনি প্রতিদিন বিকেলে এসে আমার চেম্বারের
+
+সামনে দাঁড়িয়ে এভাবে মেয়ে দেখেন কেন? ব্যাপার কী?\n
+
+বল্টুঃ আরে ডাক্তারবাবু, আপনিই তো লিখে রেখেছেন…
+
+মহিলাদের দেখার সময়ঃ বিকাল ৪টা থেকে ৬টা……..
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৮)
+
+সুন্দরি রোগীঃ  ডাক্তার , আমি শুধুমাত্র একটা জিনিশই চাই।\n
+
+ডাক্তারঃ সেটা কী?\n
+
+রোগীঃ বাচ্চা\n
+
+ডাক্তারঃ আপনি নিশ্চিত থাকুন, এ ব্যাপারে আমি একবারও ব্যর্থ হই নি ।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৯)
+
+দীর্ঘদিনের পরিচিত এক রোগী তার ডাক্তারকে প্রশ্ন করলেন,\n
+
+-আচ্ছা, ডাক্তার বাবু- দুনিয়াতে এত সাইন থাকতে আপনারা ‘প্লাস’ (+) কেন বেছে নিলেন?\n
+
+ডাক্তারের সরল জবাব-\n
+
+-দেখুন, রোগী মরুক আর বাঁচুক ডাক্তার তো সব সময় ‘প্লাস’-এই থাকে নাকি?…
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(২০)
+
+ডাক্তার অপারেশ থিয়েটারে ঢুকেছেন, ছুরি-কাঁচি নিয়ে প্রস্তুত। এখনই রোগীকে অ্যানাসথেসিয়া দিয়ে অজ্ঞান করে অপারেশন শুরু হবে। এমন অবস্থায় রোগী বলল, ডাক্তার সাহেব, আমার একটা কথা ছিল।\n
+
+ডাক্তার বলল, বুঝেছি।\n
+
+অপারেশন করার সময় যাতে ব্যথা না দেই, সেজন্যেই তো। আপনি একদম চিন্তা করবেন না। আপনি টেরই পাবেন না কখন অপারেশন করলাম। একটু পরেই আপনি ঘুমিয়ে যাবেন, আর ঘুম থেকে উঠে দেখবেন, অপারেশন শেষ।\n
+
+তখন রোগী বলে কি, আরে না না। সেটা তো জানিই। আসলে হয়েছে কি, সকালে হাসপাতালে আসার সময় হুড়োহুড়িতে আমার জামার একটা বোতাম ছিঁড়ে গেছে। তো, অপারেশন করার সময় যদি সেটাও সেলাই করে দিতেন, খুব ভালো হতো!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

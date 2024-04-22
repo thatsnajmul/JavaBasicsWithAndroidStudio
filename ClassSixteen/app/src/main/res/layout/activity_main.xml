@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <!--This Is Problem One Area Is Started-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Max Between Two Numbers"
+                android:textColor="#E30A0A"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                />
+            <EditText
+                android:id="@+id/prb01input"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:inputType="number"
+                />
+            <EditText
+                android:id="@+id/prb02input"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:inputType="number"
+                />
+            <TextView
+                android:id="@+id/tvdisplay"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="#F81212"
+                android:gravity="center"
+                android:text=""
+                />
+            <Button
+                android:id="@+id/problem01btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Check"
+                android:background="#FFD905"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                />
+                                     <!--This Is Problem One Area Is Ended-->
+
+            <!--This Is Problem Two Area Is Started-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Even Or Odd"
+                android:textColor="#E30A0A"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                />
+            <EditText
+                android:id="@+id/prb03input"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:inputType="number"
+                />
+            <TextView
+                android:id="@+id/tvdisplay1"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="#F81212"
+                android:gravity="center"
+                android:text=""
+                />
+            <Button
+                android:id="@+id/problem02btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Check"
+                android:background="#FFD905"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                />
+                                  <!--This Is Problem Two Area Is Ended-->
+
+            <!--This Is Problem Three Area Is Started-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Check Leap Year"
+                android:textColor="#E30A0A"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                />
+            <EditText
+                android:id="@+id/prb04input"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:inputType="number"
+                />
+            <TextView
+                android:id="@+id/tvdisplay2"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="#F81212"
+                android:gravity="center"
+                android:text=""
+                />
+            <Button
+                android:id="@+id/problem03btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Check"
+                android:background="#FFD905"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                />
+                                    <!--This Is Problem Three Area Is Ended-->
+
+            <!--This Is Problem Four Area Is Started-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Whether A Character Is Alphabet Or Not"
+                android:textColor="#E30A0A"
+                android:textSize="28dp"
+                android:textStyle="bold"
+                />
+            <EditText
+                android:id="@+id/prb05input"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:inputType="text"
+                />
+            <TextView
+                android:id="@+id/tvdisplay3"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="#F81212"
+                android:gravity="center"
+                android:text=""
+                />
+            <Button
+                android:id="@+id/problem04btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Check"
+                android:background="#FFD905"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                />
+
+                                    <!--This Is Problem Four Area Is Ended-->
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage18"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১৮"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৮৬) ব্যাটাছেলের কাপড়ই ছিল\n
+বিচারক : চুরি করার সময় একবারও তোমার স্ত্রী আর মেয়ের কথা মনে হয়নি? \n
+চোর : হয়েছে, হুজুর।\n
+বিচারক : তারপরও চুরি করলে কেন? \n
+চোর : কিন্তু দোকানটায় শুধু ব্যাটাছেলের কাপড়ই ছিল।
+\n
+\n
+\n
+(৮৭) যে কারণে মেয়েরা অপেক্ষা করবে\n
+যে কারণে মেয়েরা অপেক্ষা করবে\n
+বিশ্বপ্রেমিক রিজন প্রিয় বন্ধু আমিনের কাছে গেল টিপস নিতে- \n
+রিজন: দোস্ত, এমন কোনো বুদ্ধি দে, যাতে আমি মেয়েদের অপেক্ষায় থাকবো না। উল্টো তারা আমার অপেক্ষায় থাকবে! \n
+আমিন: কাল থেকে সিএনজি-স্কুটার চালানো শুরু কর। শুধু তরুণীরা না, পুরা দেশের মানুষ তোর অপেক্ষায় থাকবে...
+\n
+\n
+\n
+(৮৮) বিয়ে না করার প্রতিজ্ঞা\n
+ফেসবুকে বিয়ে বিষয়ক একটি স্ট্যাটাস-\n
+‘বিয়েতে আমার বিশ্বাস নেই। আমি নিজে তো বিয়ে করবোই না, আমার সন্তানদেরও বিয়ে করতে দেব না! আমার এক কথা...’
+\n
+\n
+\n
+(৮৯) বাসায় ফ্রিজ নেই বলে মোটা হচ্ছি\n
+পাঁচ বছর পর এক শপিং মলে দেখা দুই বান্ধবীর-\n
+মিতু: আরে রিতু, তুই তো পুরাই হাতির বাচ্চা হয়ে গেছিস! হায় হায়! এত মোটা হলি কীভাবে? \n
+রিতু: আমাদের বাসায় ফ্রিজ নেই, তাই... \n
+মিতু: ফ্রিজের সঙ্গে তোর মোটা হওয়ার সম্পর্ক কী? \n
+রিতু: পচে যাবে বলে রাতে কোনো খাবারই রাখেন না মা। ঘুমানোর আগে সব আমাকেই খেতে হয়...
+\n
+\n
+\n
+(৯০) প্রেমিকা ও স্ত্রীর মধ্যে পার্থক্য কী? \n
+এক পড়ন্ত বিকেলে দুই বন্ধু রাস্তার পাশে বসে গল্প করছে-\n
+১ম বন্ধু: প্রথম দিকে রুপা আমার প্রেমিকা ছিল। তখন আমি বলতাম আর ও বিভোর হয়ে শুনত। \n
+২য় বন্ধু: এরপর। \n
+১ম বন্ধু: আমাদের এনগেজমেন্ট হলো। তখন থেকে তার বলা শুরু আর আমি হয়ে যাই শ্রোতা। \n
+২য় বন্ধু: এখন? \n
+১ম বন্ধু: সে আমার স্ত্রী। এখন আমাদের দু’জনের মুখই খোলা, শোনে পুরো মহল্লাবাসী।
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

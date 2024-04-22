@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/drawable/buttonshape.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/layout/activity_boltu__story.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/layout/activity_unlimited_story_page1.xml" value="0.1" />
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/layout/activity_unlimited_story_page8.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/Najmul/AndroidStudioProjects/UnlimitedBengaliJokes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

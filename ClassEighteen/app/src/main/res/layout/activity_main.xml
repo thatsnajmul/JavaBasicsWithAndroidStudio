@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <!--Problem One-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Maximum Between Three Number Using Nested If"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:textColor="#FD3F03"
+                android:textStyle="bold"
+                />
+
+            <EditText
+                android:id="@+id/edittext1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="type Your number here"
+                android:inputType="number"
+                android:textSize="25dp" />
+
+            <EditText
+                android:id="@+id/edittext2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="25dp"
+                android:inputType="number"
+                android:hint="type Your number here"
+                />
+
+            <EditText
+                android:id="@+id/edittext3"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:textSize="25dp"
+                android:inputType="number"
+                android:hint="type Your number here"
+                />
+
+            <TextView
+                android:id="@+id/tvdisplay1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#F81212"
+                android:gravity="center"
+                android:textSize="20dp"
+                />
+
+            <Button
+                android:id="@+id/p1btn"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:text="Click Here"
+                android:textSize="25dp"
+                android:background="#FBE203"
+                android:textColor="#0027FF"
+                android:textStyle="bold"
+                />
+
+            <!--Problem Two-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#FFFFFF"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Whether a Number is Positive, Negative or Zero"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:textColor="#FD3F03"
+                    android:textStyle="bold"
+                    />
+
+                <EditText
+                    android:id="@+id/edittext4"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:textSize="25dp"
+                    android:inputType="number"
+                    android:hint="type Your number here"
+                    />
+
+                <TextView
+                    android:id="@+id/tvdisplay2"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textColor="#F81212"
+                    android:gravity="center"
+                    android:textSize="20dp"
+                    />
+
+                <Button
+                    android:id="@+id/p2btn"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:text="Click Here"
+                    android:textSize="25dp"
+                    android:background="#FBE203"
+                    android:textColor="#0027FF"
+                    android:textStyle="bold"
+                    />
+            </LinearLayout>
+
+            <!--Problem Three-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:background="#FFFFFF"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Whether a Number is Divisible"
+                    android:gravity="center"
+                    android:textSize="30dp"
+                    android:textColor="#FD3F03"
+                    android:textStyle="bold"
+                    />
+
+                <EditText
+                    android:id="@+id/edittext5"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:textSize="25dp"
+                    android:inputType="number"
+                    android:hint="type Your number here"
+                    />
+
+                <TextView
+                    android:id="@+id/tvdisplay3"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textColor="#F81212"
+                    android:gravity="center"
+                    android:textSize="20dp"
+                    />
+
+                <Button
+                    android:id="@+id/p3btn"
+                    android:layout_width="200dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:text="Click Here"
+                    android:textSize="25dp"
+                    android:background="#FBE203"
+                    android:textColor="#0027FF"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="30dp"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

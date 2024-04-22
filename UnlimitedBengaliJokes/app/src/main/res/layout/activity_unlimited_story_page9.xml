@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage9"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ০৯"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৪১) তিন পাগল\n
+তিন পাগলকে চিকিৎসা\n
+করা শেষে একজন\n
+ডাক্তার তাদের কে প্রশ্ন করলেন..\n
+বলতো ৫ + ৫= ? কত ?\n
+প্রথম পাগল : ৫+৫ = ৭০০ ।\n
+দ্বিতীয় পাগল ৫ +৫=জানুয়ারি মাস ।\n
+শুনে ডাক্তার হতাশ হয়ে ৩য় জন কে বলল তুমি বল ?\n
+৩য় পাগল : ৫+৫=১০ । শুনে ডাক্তার অনেক খুশি হল এবং প্রশ্ন করল কিভাবে ১০ হল বলত ?\n
+৩য় পাগল : ৭০০ থেকে জানুয়ারি মাস বিয়োগ করে
+\n
+\n
+\n
+(৪২) ছেলের কামাই-রোজগার বেশ ভালো\n
+আধুনিক বিয়ে-শাদির কথাবার্তা চলছে-\n
+মেয়েপক্ষ: শুনলাম ছেলে নাকি নেশাপানি করে খুব? \n
+ছেলেপক্ষ: তা একটু আধটু… আমার ছেলে স্বভাবে-আচরণে কিন্তু খুবই ভালো।\n মিথ্যে বলবো না আপনাদের, মানে ও আজকাল একটু বেশিই… রোজ তিন-চার পেগ… তবে রাতের বেলায়…\n
+মেয়েপক্ষ: এই বিয়ে পাক্কা। ছেলে পছন্দ হয়েছে আমাদের। বোঝা যাচ্ছে, ছেলের কামাই-রোজগার বেশ ভালো।
+\n
+\n
+\n
+(৪৩) ক্যাটরিনার ছবি\n
+বাবা তার ছেলের জ্যাকেট চেক করল!! \n
+জ্যাকেট চেক করার পর তার পকেট থেকে
+সিগারেট !\n
+ক্যাটরিনার ছবি !\n
+আর অনেকগুলা মেয়ের নাম্বার পেলো!\n
+এগুলো পেয়ে তার বাবা রেগে ফায়ার হয়ে ছেলেকে মারতে মারতে বললঃ বেয়াদব, ফাজিল, হারামজাদা কবে থেকে এইসব করতেছিস???\n
+ছেলে কাঁদতে কাঁদতে বললঃ আমি তো আজ আপনার জ্যাকেটাই পড়েছি!
+\n
+\n
+\n
+(৪৪) এত চকলেট খেয়ো না\n
+চকলেটের দোকানে খোকার সঙ্গে দেখা হলো এক ভদ্রলোকের-\n
+ভদ্রলোক : খোকা, এত চকলেট খেয়ো না। খেলে তোমার দাঁতে পোকা হবে, পেট খারাপ হবে, অল্প বয়সেই নানা রোগবালাই ধরবে।\n
+খোকা : আপনি বুঝি অনেক দিন বাঁচতে চান?\n
+ভদ্রলোক : অবশ্যই।\n
+খোকা : আমার দাদির বয়স ১০৭ বছর।\n
+ভদ্রলোক : তোমার দাদি নিশ্চয়ই ছোটবেলায় এত বেশি চকলেট খেতেন না।\n
+খোকা : সেটা জানি না। তবে দাদি কখনোই অন্যের ব্যাপারে নাক গলান না।
+\n
+\n
+\n
+(৪৫) ওটা মিসকল ছিল\n
+মন্টু আর মলির মধ্যে ভীষণ প্রেম। দিনভর কথা বলতে বলতে মোবাইলটা তাদের কানের অংশ হয়ে উঠেছে।\nএকদিন মন্টু বলল, ওগো শুনছ, শুনলাম মোবাইলে এত বেশি কথা বললে নাকি অসুখ- বিসুখ করতে পারে। চলো, আমরা এবার নতুন কিছু করি। পুরোনো দিনে ফিরে যাই। এখন থেকে আমরা চিঠি আদান- প্রদান করব।\nশুনে মলি বলল, হু। তা তো ভালোই বলেছ গো। কিন্তু চিঠি দেব কী করে?\n মন্টু: কেন? প্রাচীনকালের মতোই। কবুতরের পায়ে বেঁধে! ব্যস। পরদিন থেকে শুরু হলো চিঠি আদান- প্রদান। চিঠি আসে, চিঠি যায়।\n কবুতর বেচারার ত্রাহি ত্রাহি দশা! একসময় মলির কাছে উড়ে এল কবুতর, কিন্তু পায়ে কোনো চিঠি বাঁধা নেই।\n নিয়ম ভেঙে মন্টুকে ফোন করে বসল মলি, কী গো, কবুতরের পায়ে তো কিছু বাঁধা নেই।\n তুমি কিছু লেখোনি? \n মন্টু: আহ! বুঝলে না? \n ওটা মিসকল ছিল।
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

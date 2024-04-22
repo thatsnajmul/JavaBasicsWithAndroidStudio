@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HusbandWifeStory"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="স্বামী স্ত্রীর জোকস"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="8dp"
+                android:textColor="#FFFFFF"
+                android:textAlignment="gravity"
+                android:gravity="center"
+                android:background="#EF0E0E"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/husband_wife"
+                android:scaleType="fitXY"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০১)
+
+স্ত্রী : তোমাকে একটা বলি…….??\n
+স্বামী : হুম বলো…..\n
+স্ত্রী :মারবে না তো……??\n
+স্বামী :আরে জানু মারব কেন…..??\n
+স্ত্রী :আমি না মা হতে চলেছি……\n
+স্বামী : আরে বলো কি এটা তো অনেক খুশির খবর…… এর জন্য তোমাকে মারতে যাব কেন……??:O\n
+–\n
+–\n
+–\n
+স্ত্রী : না মানে কলেজে থাকতে বাবাকে এই কথা বলাতে বাবা অনেক মেরেছিল……..
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০২)
+
+একজন স্ত্রী তার স্বামীকে তার (স্ত্রী) সম্পর্কে
+বর্ননা করতে বলেছে…………\n
+স্বামী বর্ণনা করছে, “তুমি হচ্ছো
+A,B,C,D,E,F,G,H,I,J,K”\n
+স্ত্রী জানতে চাইলো, “এর মানে কি?”\n
+স্বামীঃ Adorable, Beautiful, Cute, Delightful, Elegant,Foxy, Gorgeous, Hot”\n
+স্ত্রীঃ ওহ, কী যে সুন্দর! মন ভরে গেলো। ওগো,
+বাকী তিনটা I,J,K-তে কী হয় গো?\n
+স্বামীঃ I’m Just Kidding!!!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৩)
+
+স্ত্রী :- হ্যাগো, শুনচ্ছ ....আমাদের মেয়ে মনে হয় কোন ছোরার পাল্লায় পড়েছে! !!!\n
+....\n
+....\n
+....\n
+স্বামী :- তুমি কি করে বুঝলে? ???\n
+...\n
+...\n
+...\n
+স্ত্রী :- মেয়ে যখন বাড়ি থেকে বের হয় এক গাদা লিপস্টিক লাগিয়ে বের হয় আর যখন বাড়ি ফিরে একটুও লেড়ে থাকে না .....!!???
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৪)
+
+রাত্রে স্বামী স্ত্রী দুজনে শুয়ে ছিল....\nরাত দুটোর সময় হঠাৎ স্ত্রীর ফোনে ম্যাসেজ টোন বেজে উঠলো.....\n
+চমকে উঠে স্বামী স্ত্রীর ফোনে BEAUTIFUL লেখা দেখে স্ত্রীকে উঠিয়ে বললোঃ তোমার ফোনে ম্যাসেজ এসেছে BEAUTIFUL.তোমার ফোনে এমন ম্যাসেজ,কেন...??\n
+স্ত্রী ধড়পড় করে উঠে বললোঃ
+'এই ৪৫ বছর বয়সে কে আর BEAUTIFUL বলবে....!!' তারপর মোবাইল দেখে চিৎকার করে স্বামীকে বললোঃ এবার থেকে চশমা পরে ফোন হাতে নেবে।ওটা BEAUTIFUL লেখা নয়,\n
+.\n
+.\n
+.\n
+ফোন চার্জে দেওয়া ছিল,
+তাই BATTERYFULL লেখা দেখাচ্ছে...
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৫)
+
+স্বামী: পাশের ভাড়াটিয়ার কাছ থেকে একটু চিনি নিয়ে এসোতো?\n
+স্ত্রী: ওরা আমাদের চিনি দেবেনা।\n
+স্বামী: ওরা তো খুব কঞ্জুস!\n
+স্ত্রী: ওদের কিপ্টেমির কথা আর বোলো না।\n
+স্বামী: তাহলে আর কী করা;\n
+আমাদের আলমারি থেকেই চিনি বের করে চা করে নিয়ে এসো, যাও
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৬)
+
+ত্রী থাপ্পড় দিয়ে স্বামীর গালে বসে থাকা একটা মশা মারলো।\n
+স্বামী:' রেগে গিয়ে, কি ব্যাপার থাপ্পড় মারলে কেনো? .\n
+.\n
+.\n
+.\n
+স্ত্রী:'আমি বেচে থাকতে অন্য কেউ তোমার রক্ত খাবে।
+  এইটা আমার পছন্দ না।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৭)
+
+স্বামী স্ত্রী ঝগডা শেষেঃ\n
+স্বামীঃ কোথায় যাও তুমি?\n
+স্ত্রীঃ সুইসাইড করতে।\n
+স্বামীঃ এত মেকাপ কেন?\n
+স্ত্রীঃ ওম্মা, কাল সকালে পত্রিকায় আমার ছবি ছাপা হবেনা??
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৮)
+
+স্বামী-স্ত্রীর মধ্যে কথা হচ্ছে—\n
+স্ত্রী: শোনো, তোমার বন্ধু যে মেয়েটিকে বিয়ে করতে যাচ্ছে ওই মেয়ে কিন্তু অতোটা ভালো নয়।\n
+স্বামী: এতে আমার সমস্যাটা কী?\n
+স্ত্রী: আরে, জেনেশুনে তোমার বন্ধু খারাপ মেয়েকে বিয়ে করবে!তুমি তাকে নিষেধ করছো না কেন?\n
+স্বামী: আমি কেন তাকে নিষেধ করবো! আমি যখন বিয়েকরি তখন তো সে আমাকে নিষেধ করে নি।।।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৯)
+
+স্ত্রী : কী করছ?\n
+স্বামী : মাছি মারছি।\n
+স্ত্রী : কটি মারলে?\n
+স্বামী : পাঁচটি। তিনটি পুরুষ মাছি আর দুটি মেয়ে মাছি।\n
+স্ত্রী : কী করে বুঝলে?\n
+স্বামী : তিনটি মাছি বসে ছিল মদের বোতলের ওপর। আর দুটি টেলিফোনের ওপর!\n
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১০)
+
+স্বামী স্ত্রীর ঝগড়া হচ্ছে…হটাত করে স্ত্রী তার জামাই কে চর মারল...\n
+স্বামী : এই তোমি কি আমাকে seriously চর মারলা…??\n
+স্ত্রী : হা..…।\n
+স্বামী : তাহলে তো বেচেই গেলা…তুমিতো জানোই আমি ইআর্কি পছন্দ করি না..…
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১১)
+
+স্ত্রী :ওগো শুনছো ? আমার ৩ মাস হয়েছে ।\n
+স্বামী :মানে ?\n
+স্ত্রী :আমার ৩ মাস হয়েছে মানে,আমি গর্ভবতী ।\n
+স্বামী :খুব খুশি ।যখন তখন মুচকিমুচকি হাসছে ।\n
+স্ত্রী :ওগো একথা এখন কাউকে বলবে না ।কয়েদিন পর বলবে ।\n
+স্বামী :আচ্ছা ।ঠিক আছে ।\n
+:\n
+:\n
+:\n
+তারপরের দিন বিদ্যুত অফিস থেকে ফোন আসল ।\n
+অফিসার :ম্যাডাম আপনার ৩ মাস হয়েছে ।\n
+স্ত্রী :আপনি কি করে জানেন ?\n
+অফিসার :আমাদের এখানকার সবাই জানে ।আমারা সব জানি ।আপনার স্বামীকে বলবেন ।\n
+স্ত্রী :ওগো শুনছো বিদ্যুত অফিসের লোকেরা সব জেনে গেছে ।আমাকে খারাপ কথা বলেছে ।\n
+স্বামী :রেগে বিদ্যুত অফিসে গেল । এবং বলল,কি হয়েছে ?\n
+অফিসার :আপনার ৩ মাসের ফাইন দেন ।\n
+স্বামি :দিবো না ।কি করবেন দেখি ?\n
+অফিসার :তাহলে আপনারটা কেটে দিব ।\n
+স্বামী :তাহলে আমার কি হবে ?
+অফিসার :কি আর হবে মোমবাতি ব্যবহার করবেন ।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১২)
+
+স্বামী স্ত্রী রাতে বিছানায় শুয়ে আছে...\n
+স্ত্রী : জান এমন কিছু করো যাতে আমি প্রচণ্ড ঘেমে উত্তেজিত হয়ে পরি।\n
+স্বামী : উঠে গিয়ে, ফ্যানের সুইচ অফ করে দিলো...
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৩)
+
+নব বিবাহিত স্বামী-\n
+স্ত্রী রাতে ট্রেন ভ্রমন করছেন ।\n হঠাৎ পুরো ট্রেনের ইলেক্ট্রিসিটি চলে গেল, বেশ কিছুক্ষণ পর আবার সব আলো জ্বলে উঠলজ্বলে উঠলো…..\n
+স্বামী: আগে যদি জানতাম এতক্ষণ আন্ধকার থাকবে তাহলে এর সদ্ব্যবহার করে অনেকগুলি চুমু খেতে পারতাম।\n
+স্ত্রী: তুমি না……. তাহলে এতক্ষণ কে ছিল……
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৪)
+
+স্বামী : তুমি কি জানো আমার ক্ষমতা কত?\n
+স্ত্রী : না। একটু দেখাও তো।\n
+স্বামী : ওই যে দেখছ ট্রেনটা আসছে, ওটাকে আমি এখনই থামিয়ে দিতে পারি।\n
+স্ত্রী : দাও তো দেখি।\n
+স্বামী লাল কাপড় উড়িয়ে ট্রেন থামালেন। গার্ড সঙ্গে সঙ্গে ট্রেন থেকে নেমে থামানোর কারণ জানতে চাইলেন।\n
+স্বামী : আমি স্ত্রীকে আমার ক্ষমতা দেখাচ্ছিলাম।\n এ কথা শুনে গার্ড তার পেছনে সজোরে লাথি দিয়ে চলে গেলেন।\n
+স্ত্রী : গার্ড তোমাকে লাথি দিল, তুমি কিছু বললে না?\n
+স্বামী : আমার ক্ষমতা আমি দেখিয়েছি, সে তার ক্ষমতা দেখাবে না!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৫)
+
+স্বামী-স্ত্রী একসাথে ঘুমাচ্ছে---\n
+স্ত্রী গভীর রাতে ঘুমের ঘোরে চিৎকার করে ঊঠলঃ
+'তাড়াতাড়ি পালাও! আমার স্বামী ফিরে এসেছে!!!'\n
+>>>স্বামী ঘুম থেকে ওঠেই তড়িঘড়ি করে জানালা দিয়ে লাফ দিল.....
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৬)
+
+টেক্সিতে স্বামী স্ত্রী দুজন দুজনকে Kiss করার সময় টেক্সি ড্রাইভার বারবার পিছে ফিরে দেখছে।
+কিছু দূর যাওয়ার পর টেক্সি এক্সিডেন্ট করলো .\n
+.\n
+.\n
+.টেক্সি ড্রাইভার মাথায় হাত ,বসে আছে আর বলছে . শালা আইজকা বুজতে পারছি সেইদিন টাইটানিক ক্যান ডুবছিলো।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৭)
+
+স্বামী: আমার জান কে??\n
+স্ত্রী:আমি\n
+স্বামী: আমার প্রান কে??\n
+স্ত্রী:আমি\n
+স্বামী:আমার মন চুরি কে করেছে??\n
+স্ত্রী: আমি\n
+স্বামী:আমার টাকা চুরি করেছে কে??\n
+স্ত্রী:আমি। ….ইয়ে….মানে………
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৮)
+
+গভীর রাত, স্বামী-স্ত্রী বেডরুমে।'কারেন্ট নেই',বাইরে ঝিরিঝিরি বৃষ্টি। মৃদুমন্দ বাতাস
+।স্ত্রী পেছন থেকে এসে স্বামীর গলা জড়িয়ে ধরল।\n
+গালে গাল ঠেকালো।ফিসফিসিয়ে বলল..\n
+স্ত্রীঃ ওগো...\n
+- বলো।\n
+- তুমি কি বুঝতে পারছ আমি এখন কী চাইছি।\n
+- পারছি।\n
+স্বামী- কী...?\n
+স্ত্রী - একটা IPS...
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৯)
+
+স্বামী স্ত্রীকে জিজ্ঞেস করল, বিয়ের আগে তুমি কি কারও সঙ্গে প্রেম করেছ?\n
+স্ত্রী বলল, হ্যাঁ।\n
+স্বামী রেগে বলল
+, তাহলে ওই হতচ্ছাড়ার নাম বলো। এক্ষুনি গিয়ে দাঁত ভেঙে দিয়ে আসি।\n
+স্ত্রী বলল, ওগো, তুমি একা কি তাদের সবার সঙ্গে পারবে?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(২০)
+
+স্বামী- স্ত্রী প্রচন্ড ঝগড়ার পর…………..\n
+স্ত্রী কাপড় চোপড়সহ ব্যাগ গোছানোশুরু করল।\n
+স্বামীঃ ব্যাগ গোছাও কেন?\n
+স্ত্রীঃ আমি আমার মায়ের কাছে চলে যাচ্ছি।\n
+এরপর স্বামীও ব্যাগ গোছানো শুরু করল।\n
+স্ত্রীঃ তুমি আবার কই যাও!!!\n
+স্বামীঃ আমিও আমার মায়ের কাছে চলে যাচ্ছি।\n
+স্ত্রীঃ তাহলে আমাদের এই ৯ টা বাচ্চাকাচ্চা দেখবে কে???\n
+স্বামীঃ তুমি তোমার মায়ের কাছে যাচ্ছ, fine, আমিও আমার মায়ের কাছে যাচ্ছি।\n
+সেই অনুযায়ী বাচ্চাকাচ্চাদের ও তাদের মায়ের কাছেই যাওয়া উচিত .....
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

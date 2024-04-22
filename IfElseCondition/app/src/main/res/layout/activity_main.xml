@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:id="@+id/laysplashgo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#ffffff"
+        android:gravity="center"
+        >
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/elseif"
+            android:padding="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:textStyle="italic"
+            android:text="Problem Solving "
+            android:textSize="25dp"
+            android:textColor="#FA0169"
+            />
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <LinearLayout
+            android:id="@+id/linearmain"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="10dp"
+            android:padding="05dp"
+            >
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem One"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Two"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Three"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Four"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Five"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Six"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Saven"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Eight"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Nine"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Ten"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button11"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Eleveen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button12"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Tweelve"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button13"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Thirteen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button14"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Forteen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button15"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Fifteen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button16"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Sixteen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button17"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Saventeen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button18"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Eighteen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Ninteen"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button20"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_margin="10dp"
+                android:textSize="25dp"
+                android:text="Problem Tweenty"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="300dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:background="#D40AF6"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="50dp"
+                android:textSize="25dp"
+                android:text="Problem Tweenty One"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

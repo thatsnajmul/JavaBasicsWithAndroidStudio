@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage12"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১২"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৫৬) ইয়ারকি মারার মুডে থাকে তখন\n
+মেয়ে : আচ্ছা দাদা, ভালোবাসা কখন হয়? \n
+ছেলে : যখন রাহু, কেতু এবং শনির দশা চলে, সঙ্গে মঙ্গলও খারাপ আর ভগবান তোমার সঙ্গে ইয়ারকি মারার মুডে থাকে তখন!
+\n
+\n
+\n
+(৫৭) সব লিমিট ক্রস\n
+না পরলে মিস করবেন ::: \n
+ছেলে রাত করে বাড়ি ফিরেছে। বাবা : কোথায় ছিলি রে হারামজাদা ? \n
+ছেলে: আমি আমার ফ্রেন্ড এর বাসায় ছিলাম (!)\n
+বাবা তৎক্ষনাত কয়েকজন ছেলে বন্ধুদেরকে ফোন দিলেন. \n
+৪ নং ফ্রেন্ড বললো : ” জ্বী আঙ্কেল! সে তো আমার সাথে ছিল” \n
+৩ নং ফ্রেন্ড বললো: ও কিছুক্ষন আগে চলে গিয়েছে”! \n
+২ নং ফ্রেন্ড বললো: \n” চাচা, ও আমার সাথেই আছে (!!) \n এবং আমরা দুজন পড়ছি\n (!!?) সব শেষের জন সব লিমিট ক্রস
+করলো, \n এবং বললো-” হ্যাল্লো আব্বু, আমার আজ রাতে আসতে দেরী হবে !!
+\n
+\n
+\n
+(৫৮) ডিভোর্সের ঘটনা ঘটতো না\n
+আদালতে প্রেমের বিয়ের ডিভোর্সের মামলা চলছে-\n
+১ম আইনজীবী: প্রেমের সময়ে ছেলেরা যতটা আন্তরিক থাকে, বিয়ের পরে যদি তার অর্ধেকও থাকতো। তবে এত ডিভোর্সের ঘটনা ঘটতো না, স্যার।\n
+২য় আইনজীবী: বিয়ের পরে মেয়েরা যে আচরণ করে; বিয়ের আগে যদি তার এক চতুর্থাংশও করতো, তাহলে কিন্তু স্যার, প্রেমের সূত্রে কোনো বিয়েই আর হতো না।
+\n
+\n
+\n
+(৫৯) ঘরে যুবতী মেয়ে \n
+এক পথিক রাত কাটানোর জন্য জায়গা খুঁজছে।\n এক বাড়িতে গিয়ে বলল, ‘একটু থাকার জায়গা হবে কি?’ \n না, আমার ঘরে যুবতী মেয়ে আছে। \n পথিক এগিয়ে আরেকটি বাড়িতে গেল।
+তোমার ঘরে কি একটু থাকার জায়গা হবে? \n না না, আমার ঘরে সেয়ানা মেয়ে আছে। \n এভাবে আরো কয়েক বাড়িতে গিয়ে থাকার জায়গা চেয়ে সবার কাছ থেকে একই উত্তর পেয়ে খুব হতাশ হয়ে সবশেষ বাড়িটাতে গিয়ে বলল, \n তোমার ঘরে কি যুবতী বা সেয়ানা মেয়ে আছে? \n কেন? তা দিয়ে আপনার দরকার কী? \n না মানে, রাতটা একটু কাটাতে চাই তবে রে…. \n দাঁড়া দেখাচ্ছি মজা!
+\n
+\n
+\n
+(৬০) আপনাকে ৪০ টাকাই দিতে হবে\n
+চিঠি পোস্ট করতে পোস্ট অফিসে গেছে নিতু-\n
+কর্মকর্তা : চিঠিটা যদি দ্রুত পৌঁছাতে চান, খরচ পড়বে ৪০ টাকা। আর যদি স্বাভাবিক নিয়মেই \n পাঠাতে চান, তাহলে খরচ পড়বে ৫ টাকা।\n
+নিতু : সমস্যা নেই, আমার তেমন কোনো তাড়া নেই। প্রাপক তার জীবদ্দশায় চিঠিটা পেলেই \n হলো।\n
+কর্মকর্তা : তাহলে আপনাকে ৪০ টাকাই দিতে হবে!
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

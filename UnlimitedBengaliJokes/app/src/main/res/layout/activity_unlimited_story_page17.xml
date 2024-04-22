@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage17"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১৭"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৮১) গাড়ির বদলে একটা নতুন গাড়ি\n
+এক ভদ্রলোক একটা মোটর গাড়ি দুর্ঘটনায় একেবারে চুরমার হয়ে গেছে। তিনি তার গাড়ি যেখানে বীমা করেছিলেন সেখানে গিয়ে টাকা দাবি করলেন। কোম্পানির ম্যানেজার বললেন-\n
+ম্যানেজার : আপনাকে তো টাকা দেয়া হবে না। আপনাকে গাড়ির বদলে একটা নতুন গাড়ি দেয়া হবে।\n
+ভদ্রলোক : আরে আমার স্ত্রীর নামে বীমা করা, সে মরে গেলেও কি আপনারা একই ব্যবস্থা করবেন?
+\n
+\n
+\n
+(৮২) পিঁপড়ারা বুঝতে না পারে\n
+একজন মুদির দোকানে গেছে চিনি কিনতে। দোকানদার প্যাকেট করতে যাচ্ছিল এমন সময়…\n
+ক্রেতা : সেকি! আমি তো আপনাকে চিনি দিতে বলছি। আপনি আমাকে লবণ দিচ্ছেন কেন? \n
+বিক্রেতা : কই! আমি তো আপনাকে চিনিই দিচ্ছি।\n
+ত্রেতা : তাহলে বস্তার গায়ে ‘লবণ’ লেখা রয়েছে কেন? \n
+বিক্রেতা : যাতে করে পিঁপড়ারা বুঝতে না পারে!
+\n
+\n
+\n
+(৮৩) ট্রেনের ডানপাশে যাচ্ছে সিলেট আর বামপাশে যাচ্ছে চট্টগ্রাম\n
+কোনো এক যাত্রী সিলেটগামী ট্রেনের পরিবর্তে চট্টগ্রামের ট্রেনে উঠে পড়লেন। কিছুক্ষণ পর ট্রেনের অন্য এক যাত্রীকে জিজ্ঞেস করলেন—\n
+প্রথম যাত্রী : কোথায় যাওয়া হচ্ছে ভাই? \n
+দ্বিতীয় যাত্রী : সিলেট।\n
+প্রথম যাত্রী : বিজ্ঞানের কী বিস্ময় দেখুন, একই ট্রেনের ডানপাশে যাচ্ছে সিলেট আর বামপাশে যাচ্ছে চট্টগ্রাম।
+\n
+\n
+\n
+(৮৪) আয়নাটার দাম কত\n
+মেয়ে : আয়নাটার দাম কত? \n
+দোকানদার : ৩শ’ টাকা! \n
+মেয়ে : এত দাম কেন? এটার মধ্যে কি কোন বিশেষ গুণ আছে? \n
+দোকানদার : হ্যাঁ, অবশ্যই। এই আয়না ১শ’ তলা বিল্ডিংয়ের ওপর থেকে ছেড়ে দিলে ৯৯ তলা পর্যন্ত ভাঙবে না! \n
+মেয়ে : ওয়াও, তাহলে এটা প্যাক করে দিন!
+\n
+\n
+\n
+(৮৫) ডেডবডি আগের স্টেশনে নামিয়ে নিয়ে গেল\n
+এক যাত্রী ট্রেনের অ্যাটেন্ডেন্ট লালুকে ১০০ টাকা দিয়ে বলল-\n
+যাত্রী : আরেকটু বরফ আনো তো, লাস্ট পেগটা মারি।\n
+লালু : আর তো বরফ পাওয়া যাবে না স্যার।\n
+যাত্রী : কেন? \n
+লালু : ডেডবডি আগের স্টেশনে নামিয়ে নিয়ে গেল যে।
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

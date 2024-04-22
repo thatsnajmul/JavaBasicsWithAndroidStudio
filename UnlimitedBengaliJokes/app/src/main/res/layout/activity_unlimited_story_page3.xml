@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage3"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ০৩"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১১) তালা লাগাও\n
+পল্টু বেকারির দোকানে নতুন চাকরি পেয়েছে। অথচ চাকরির দুই দিনের মাথায় দোকানমালিক তাকে ছাঁটাই করে দিল। কী তার অপরাধ? দোকানে এক ভদ্রলোক এসেছিলেন।\n
+বলেছিলেন, খোকা, তোমাদের এখানে কি কুকুরকে খাওয়ানোর কেক পাওয়া যায়? পল্টু গদগদ হয়ে বলেছিল, অবশ্যই স্যার! এখানে খাবেন, না বাড়ি গিয়ে খাবেন? \n
+ক্রেতা: তোমার দোকানে কি সবকিছু পাওয়া যায়? \n
+বিক্রেতা: জি স্যার, সব পাবেন! \n
+ক্রেতা: বিস্কুট আছে? \n
+বিক্রেতা: ওহেহা, স্যরি স্যার, বিস্কুট একটু আগেই শেষ হয়ে গেছে।\n
+ক্রেতা: চাল আছে? \n
+বিক্রেতা: চাল স্যার এখনো এসে পৌঁছায়নি। আমি স্যার খুবই দুঃখিত।\n
+ক্রেতা: সাবান আছে? \n
+বিক্রেতা: স্যার, সাবান আজকে বিকেলে এলেই পাবেন, এখন নেই।
+ক্রেতা: তালা আছে? \n
+বিক্রেতা: জি জি স্যার! এটা আছে! \n
+ক্রেতা: গুড। দোকানে তালা লাগাও, আর বাড়ি গিয়ে ঘুমাও।
+\n
+\n
+\n
+(১২) তোর ভাবির সাথে\n
+একদিন হাবলু হঠাৎ তার ভাবিকে ধরে প্রচুর মারধর করতে লাগল! সবাই অবাক হয়ে হাবলুকে থামালো আর জিজ্ঞেস করল-\n
+প্রতিবেশী : তুমি তোমার ভাবিকে মারছ কেন? \n
+হাবলু : আমার ভাবি ভালো মহিলা না! \n
+প্রতিবেশী : তুমি কীভাবে বুঝলা? \n
+হাবলু : আর বইলেন না! আমি আমার যেই বন্ধুকেই ফোনে কথা বলতে দেখে জিজ্ঞেস করি, কার সাথে কথা বলিস? সেই বন্ধুই উত্তর দেয়, তোর ভাবির সাথে!
+\n
+\n
+\n
+(১৩) কিচ্ছুই তো দেখি নি \n
+নাহিদ সুলতানা ম্যাম ১ দিন ক্যামেস্ট্রি ক্লাসে জটিল যৌগ পড়াচ্ছিলেন, অনেকক্ষন বুঝানোর পরও কেউ বুঝে নি। তারপর…\n
+ম্যামঃ “আমি ব্রা কেটে দুদু বার করে (ব্র্যাকেটে দুই দুই বার) তোমাদের দেখাইছি, তারপরও তোমরা বুঝো নি??” \n
+পোলাপাইনঃ কই ম্যাডাম কিচ্ছুই তো দেখি নি!
+\n
+\n
+\n
+(১৪) ছেলেকে পিটানোর জন্য না\n
+মা: বজ্জাত ছেলে কোথাকার! এতবার বলি, তারপরেও সোফায় শুয়ে থাকিস। আজ জুতিয়ে তোকে সিধা করবো,\n
+বল্টু: মা! মা! আর হবে না এমন এবারের মতো,\n
+মা: আর হবে না কেন? তুই আবার করবি এই কাজ! সোফা হচ্ছে বসার জন্য, এটা তো শোয়ার জন্য না,\n
+বল্টু: মা, স্যান্ডেলও তো পায়ে দেওয়ার জন্য, ছেলেকে পিটানোর জন্য না!
+\n
+\n
+\n
+(১৫) ভাবি এবং দেবর\n
+ভাবি এবং দেবর..!!\n
+ভাবিঃ কিরে তোর মাইয়া পছন্দ হইছে??\n
+দেবরঃ না ভাবি…\n
+ভাবিঃ কেন কি হইছে??\n
+দেবরঃ সবই ঠিক আছে,, কিন্তু একটু খাটো।।\n
+ভাবিঃ আরে বোকা মোবাইল ছোট হোক আর বড় হোক মেমোরি ঢুকানোর যায়গা কিন্তু সমান
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

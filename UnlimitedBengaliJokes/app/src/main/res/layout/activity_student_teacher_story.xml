@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StudentTeacherStory"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ছাত্র শিক্ষকের জোকস"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="8dp"
+                android:textColor="#FFFFFF"
+                android:textAlignment="gravity"
+                android:gravity="center"
+                android:background="#EF0E0E"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/student_teacher"
+                android:scaleType="fitXY"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০১)
+শিক্ষক :- বলতো ’সামথিং ইজ বেটার দান নাথিং ’এর অর্থ কি?\n
+ছাত্র :- স্যার! সামসুদ্দিনের বেটার নাতিন।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০২)
+
+শিক্ষক: কে ''I lovE YOu'' আবিঙ্কার করেছে ??\n
+ছাত্র.: CHina কোমপানী|\n
+
+শিক্ষক: (অবাক হয়ে)
+
+কীভাবে বুঝলে বাবা??\n
+
+ছাত্র: এর কোন GUARAntee নাই QUAlity ও নাই....|\n
+
+....\n
+
+....\n
+
+....\n
+
+টিকলে সারাজীবন টিকে না টিকলে ২ দিন ও টিকে না.......
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৩)
+
+শিক্ষক:চোর সম্পর্কে একটা ভালো উদাহরণ দিতে পারবে?\n
+
+ছাত্র:চোর পালালে বুদ্ধি বাড়ে। অতএব নিজের বুদ্ধি বাড়ানোর জন্য চোরকে সবসময় পালাতে দিতে হবে।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৪)
+
+ক্লাস ওয়ানের বল্টুকে শিক্ষকের প্রশ্ন,\n
+
+শিক্ষকঃ বলতো বল্টু সবচেয়ে হাসিখুশি প্রাণী কোনটি?\n
+
+বল্টুঃ হাতি স্যার!\n
+
+শিক্ষকঃ কেন?\n
+
+বল্টুঃ দেখেন না স্যার, হাতি খুশিতে সব সময় তার দাত বের করে রাখে
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৫)
+একদিন শিক্ষক জিজ্ঞেস করলেন তার ছাত্রকে, ‘বলো তো দেখি, মুরগি কেন জিরাফের মতো লম্বা হয় না?’\n
+
+ছাত্র মাথা চুলকে বলল, ‘স্যার, তাহলে তো মুরগি ডিম পাড়ার সাথে সাথে ডিমটা মাটিতে পড়ে ফেটে যেত, আমাদের আর ডিম খাওয়া হতো না!’
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৬)
+
+শিক্ষক: যারা একেবারে গাধা বা নির্বোধ তারা ছাড়া সবাই বসে পড়ো। (সকল ছাত্র বসলেও একজন দাড়িয়ে আছে)\n
+
+শিক্ষক: কিরে, তুই গাধা নাকি নির্বোধ?\n
+
+ছাত্র: না স্যার, আপনি একা দাড়িয়ে আছেন এটা ভাল দেখাচ্ছেনা, তাই...
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৭)
+
+শিক্ষকঃ আচ্ছা সুমন বল তো একটা মোরগের ডিম টিনের চালে রাখা হল তখন কী হবে?\n
+
+সুমনঃ যে দিকে ঢালু ডিমটা সেদিকে গড়িয়ে পড়বে মাটিতে।\n
+
+শিক্ষকঃ গুড।
+
+এ সময় ক্লাসের আরিফ হাত তুলল।\n
+
+শিক্ষকঃ তুমি কী বলতে চাও?\n
+
+আরিফঃ স্যার, ডিমটা পড়বে না, শূণ্যে ভেসে থাকবে।\n
+
+শিক্ষকঃ মানে?\n
+
+আরিফঃ এটা মোরগের পাড়া ম্যাজিক ডিম তো, তাই।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৮)
+
+শিক্ষক : কি রে মন খারাপ কেনো?\n
+
+ছাত্র : কৈ না তো সার\n
+
+শিক্ষক : আরে লজ্জা পাস না,বন্ধু ভেবে বলে ফেল\n
+
+
+
+ছাত্র : আর বলিস না দোস্ত তোর মেয়ে আমাকে আর আগের মতো ভালবাসে না!!!\n
+
+.\n
+
+.\n
+
+শিক্ষক বেহুশ
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৯)
+
+শিক্ষক ক্লাশে পড়াচ্ছেন...এক ছাত্র হঠাৎ দাড়িয়ে বলল..\n
+
+ছাত্র : স্যার স্যার....মুতব!\n
+
+স্যার : যা,তাড়াতাড়ি আসবি...যত্তসব।\n
+
+একটু পর আবার অন্য একজন ছাত্র দাড়িয়ে বলল...\n
+
+ছাত্র : স্যার..... মুতব!!\n
+
+স্যার রেগে গিয়ে :এই, তোদের মুখ দিয়ে কি প্রসাব বের হয় না?'\n
+
+ছাত্র : না স্যার,আপনার বের হয় ?'
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১০)
+
+শিক্ষক ছাত্র-ছাত্রীদের ¬ বলছেন কে কি হতে চায় ভবিষ্যতে-\n
+
+রানা : আমি পাইলট হতে চাই।\n
+
+সুমিত : আমি ডাক্তার হতে চাই।\n
+
+লিজা : আমি একজন ভালো মা হতে চাই।\n
+
+রোকন : আমি লিজাকে সাহায্য করতে চাই।!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১১)
+
+শিক্ষক ও ছাত্রের কথোপকথন→→↓\n
+
+শিক্ষক : তুমি কি বলবে Dialog নাকি Paragraph?\n
+
+ছাত্র : Dialog বলব Sir.\n
+
+শিক্ষক : ঠিক আছে বলো।\n
+
+ছাত্র : শালা মারব এখানে লাশ পড়বে শসানে!!\n
+
+শিক্ষক : কি!\n
+
+ছাত্র : আমি তোর বাপ ফাটাকেষ্ট!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১২)
+
+ছাত্র-শিক্ষক!!!\n
+
+Sir : যদি এমন একটা সময় আসে আগুন জ্বালানোর কিছুই না পাওয়া যায় তখন কিভাবে আগুন জ্বালাবে??\n
+
+
+
+বল্টু : স্যার এটাতো খুব সহজ !\n
+
+Sir : কিভাবে!!?\n
+
+বল্টু : স্যার চুলার মধ্যে রবি সিম দিয়া\n
+
+বলব জলে উঠো আপন শক্তিতে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৩)
+
+শিক্ষক আর ছাত্রের সাথে কথা হচ্ছে :\n
+
+শিক্ষক :কিরে কাল না তোর পরিক্ষা।এখনো গুরা-গুরি করস!!!\n
+
+ছাত্র :হ্যাঁ স্যার!!!কিন্তু একটা সমস্যা\n
+
+শিক্ষক:কি সমস্যা বল???\n
+
+ছাত্র :স্যার আমার বাল কেটে লাল করে দেন!!!\n
+
+শিক্ষক:কি!!!!হারামজাদা রাখ তোর বাপের কাছে বলতেছি।\n
+
+ছাত্র :আসলে স্যার আপনি যা ভাবছেন তা না!!\n
+
+শিক্ষক:কি তাহলে???আমার সাথে ইয়ার্কি!!\n
+
+ছাত্র :না স্যার.।আমার নাম করিম লাল।\n
+
+কিন্তু admit এ ভুল করে করিম বাল লিখছেন।\n
+
+তাই বলছিলাম যদি বাল কেটে লাল করে দিতেন!!!!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৪)
+
+ছাত্র, ছাত্রী এবং শিক্ষক!!!\n
+
+ক্লাসে স্যার ছাত্র ছাত্রীদের বললঃ একটা গান করোতো'\n
+
+ ছাত্র ছাত্রীঃ ok স্যার ।\n
+
+ছাত্রীঃ আতা গাছে তোতা পাখি, নারকেল গাছে ডাব ।\n
+
+ছাত্রঃ তোরে আমি বিয়া করবো, কি করবে তোর বাপ ??\n
+
+স্যারঃ It's 100% Love.. Love.. Love.
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৫)
+
+শিক্ষক : তোমরা যদি কখনো দেখ কেউ পানিতে ডুবে যাচ্ছে,তখন সাথে সাথে তার চুল ধরে পানি থেকে উদ্ধার করবে।\n
+
+তখন একথা শুনে এক..\n
+
+ছাত্র বলল : স্যার আপনি যদি ডুবে যান তাহলে উদ্ধার করবো না।\n
+
+শিক্ষক : কেন?আমি আবার কি অপরাধ করলাম!\n
+
+ছাত্র : কারণ আপনার ছাদে তো মাল নেই।\n
+
+শিক্ষক : কি বলতে চাস হারামজাদা?\n
+
+ছাত্র : মানে,\n
+
+আপনার মাথায় তো চুল নেই।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৬)
+
+দুই ছাত্র, মারামারি করছে\n
+
+শিক্ষক: এইতোরা মারামারি করছ কেনো?\n
+
+১ম ছাত্র: স্যার, ও আমার গার্লফ্রেন্ডকে কিস করেছে!\n
+
+শিক্ষক:তোর গার্লফ্রেন্ডটা কে??\n
+
+১ম ছাত্র: আপনার মেয়ে!\n
+
+শিক্ষক: থামলি কেনো?মার শালাকে..
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৭)
+
+দারূন শিক্ষক vs ছাত্র জোকস........\n
+
+শিক্ষক: তুমি H.S.C এর পূর্ন মিনিং বলো।\n
+
+ছাত্র: এতো এক্কেরে সোজা।H=হেডমাষ্টার,S= স্যান্ডেল,C= চুর।\n
+
+শিক্ষক 'হারামজাদা শয়তান ছেলে'\n
+
+ছাত্র: জ্বী স্যার, আপনেরটাও ঠিক আছে!!!\n
+
+শিক্ষক:shokzzz___\n
+
+ছাত্র:rokzzz___\n
+
+[___লুল___]
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৮)
+
+ছাত্র-শিক্ষক!!!\n
+
+স্যারঃ বলতো ভালবাসার ওজন কত কেজি?\n
+
+বল্টু : ৮০ কেজি স্যার।\n
+
+স্যারঃ হা হা হা..... কিভাবে?\n
+
+বল্টু :'ভালবাসা হচ্ছে ২টি মনের মিলন, আর আমরা জানি যে...১মন=৪০ কেজি\n
+
+সুতারাং, ২মন=৪০+৪০কেজি=৮০ কেজি।' (প্রমাণিত)
+\n
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৯)
+
+ছাত্র-শিক্ষক!!!\n
+
+কলেজের স্যার বলল - খাতায় সবাই নিজের ভালবাসার মানুষটির নাম লিখ।\n
+
+ছেলেরা ৫ সেকেন্ড এর মধ্যে খাতা জমা দিয়ে দিল কিন্তু........\n
+
+মেয়েরা ৫ মিনিট পর বলল -\n
+
+লুজ পেপার please.....!!\n
+
+সবাই কি বুঝলেন …………
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(২০)
+
+কে বেশি অলস\n
+
+শিক্ষক ছাত্রদের উদ্দেশে বললেন, ‘আমি ঠিক করেছি, তোমাদের মধ্যে সবচেয়ে অলস যে, তাকে পড়া দিতে হবে না। কে সবচেয়ে অলস?\n
+
+ ৪৯ জন ছাত্র হাত তুলল।\n
+
+ স্যার হাত না তোলা ছাত্রকে জিজ্ঞেস করলেন, ‘তুমি হাত তুলছ না কেন?’\n
+
+ছাত্র জবাব দেয় স্যার, হাত তুলতে কষ্টহয়।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

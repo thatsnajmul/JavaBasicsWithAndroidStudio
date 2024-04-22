@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.thatsnajmul.unlimitedbengalijokes">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".UnlimitedStoryPage20"></activity>
+        <activity android:name=".UnlimitedStoryPage19" />
+        <activity android:name=".UnlimitedStoryPage18" />
+        <activity android:name=".UnlimitedStoryPage17" />
+        <activity android:name=".UnlimitedStoryPage16" />
+        <activity android:name=".UnlimitedStoryPage15" />
+        <activity android:name=".UnlimitedStoryPage14" />
+        <activity android:name=".UnlimitedStoryPage13" />
+        <activity android:name=".UnlimitedStoryPage12" />
+        <activity android:name=".UnlimitedStoryPage11" />
+        <activity android:name=".UnlimitedStoryPage10" />
+        <activity android:name=".UnlimitedStoryPage9" />
+        <activity android:name=".UnlimitedStoryPage8" />
+        <activity android:name=".UnlimitedStoryPage7" />
+        <activity android:name=".UnlimitedStoryPage6" />
+        <activity android:name=".UnlimitedStoryPage5" />
+        <activity android:name=".UnlimitedStoryPage4" />
+        <activity android:name=".UnlimitedStoryPage3" />
+        <activity android:name=".UnlimitedStoryPage2" />
+        <activity android:name=".UnlimitedStoryPage1" />
+        <activity android:name=".ModMatalStory" />
+        <activity android:name=".NasiruddinHojaStory" />
+        <activity android:name=".HusbandWifeStory" />
+        <activity android:name=".Boltu_Story" />
+        <activity android:name=".Love_Lover_Story" />
+        <activity android:name=".DoctorPatientStory" />
+        <activity android:name=".StudentTeacherStory" />
+        <activity android:name=".GopalvarStory" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

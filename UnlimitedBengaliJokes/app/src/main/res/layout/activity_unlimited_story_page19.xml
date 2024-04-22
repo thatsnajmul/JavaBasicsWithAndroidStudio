@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage19"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ১৯"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(৯১) নারীদের বেশি বলা দুটি বাক্য\n
+জনৈক সেলসম্যানের দৃষ্টিতে জামা-কাপড় কিনতে যাওয়া নারীদের সবচেয়ে বেশি আওড়ানো দুটি বাক্য-\n
+১. একই রঙের অন্য ডিজাইন দেখান... \n
+২. একই ডিজাইনে অন্য রঙের দেখান...
+\n
+\n
+\n
+(৯২) সিগারেট খাওয়ার অফার\n
+চেইন স্মোকার মতিনের ব্যাংক ক্যাশিয়ার পদে চাকরি হয়ে গেল। যোগদানের দিন ব্যাংক ম্যানেজার নবাগত ক্যাশিয়ারকে পেশাগত নানা টিপস দিতে গিয়ে প্রশ্ন করলেন- \n
+ম্যানেজার: বান্ডিল আর প্যাকেটের পার্থক্য বোঝেন তো? \n
+মতিন: জ্বি স্যার! প্যাকেট হয় সিগারেটের আর বান্ডিল হয় বিড়ির! \n
+ম্যানেজার: আর এটাকে বলে ম্যাচ বাক্স! ঠিক? \n
+মতিন: স্যার! আমি আসলে বুঝতে পারছি না আপনি কী বোঝাতে চাইছেন! আপনি কি আমাকে সিগারেট খাওয়ার অফার দিচ্ছেন...
+\n
+\n
+\n
+(৯৩) বিবাহবার্ষিকীর দিন স্বামী-স্ত্রীর ঝগড়া\n
+৪০তম বিবাহবার্ষিকীর দিন স্বামী-স্ত্রীর ঝগড়া বেঁধে গেল, থামছেই না। একপর্যায়ে স্বামী চিৎকার করে বলল-\n
+স্বামী: তুমি যেদিন মরবে, তোমার কবরে আমি লিখে দিয়ে আসবো- ‘এবার আমার স্ত্রী চিরদিনের তরে শান্ত হলো’! \n
+স্ত্রী: তুমি মরলে আমিও লিখে দিয়ে আসবো- ‘আমার স্বামী! শেষপর্যন্ত সোজা আর শক্ত হলো’!
+\n
+\n
+\n
+(৯৪) দৃষ্টিশক্তি একদম ঠিক আছে\n
+স্ত্রী: আমাকে খুব মোটা মোটা দেখাচ্ছে, তাই না? \n
+স্বামী: কে বলল এমন কথা? \n
+স্ত্রী: কে বলবে আবার, আমি নিজের চোখেই তো দেখছি! \n
+স্বামী: তোমার দৃষ্টিশক্তি একদম ঠিক আছে তাহলে।
+\n
+\n
+\n
+(৯৫) আজ আমাদের রুটি ছিল না\n
+এক লোক রেস্টুরেন্টের সামনে একটি অদ্ভুত বিজ্ঞাপন দেখে দাঁড়াল। বিজ্ঞাপনে লেখা আছে, ‘আমরা যদি আপনার অর্ডার অনুযায়ী খাবার দিতে ব্যর্থ হই তাহলে আপনাকে ৫০০ টাকা দেয়া হবে।’\n
+লোকটা ভেতরে ঢুকতেই ওয়েটার এল। সে তাকে এক গ্লাস বাঘের দুধ আর দু’টি রুটি দিতে বলল। ওয়েটার অর্ডার লিখে কিচেনে চলে যাওয়ার কিছুক্ষণের মধ্যেই ম্যানেজার পাঁচটি ১০০ টাকার নোট নিয়ে ফিরে এল।\n
+টাকাগুলো টেবিলে রেখে বলল, ‘এই নিন আপনার টাকা। গত ১০ বছরে এই প্রথম আজ আমাদের রুটি ছিল না।’
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

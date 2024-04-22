@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.amaderhub.ifelsecondition"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:5:5-42:19
+12        android:allowBackup="true"
+12-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Abeer\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.amaderhub.ifelsecondition.MainActivity" >
+21-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:12:9-17:20
+21-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:12:19-47
+22            <intent-filter>
+22-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:13:13-16:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:14:17-69
+23-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:15:17-77
+25-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:15:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="com.amaderhub.ifelsecondition.Problem21" />
+28-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:18:9-47
+28-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:18:19-44
+29        <activity android:name="com.amaderhub.ifelsecondition.Problem20" />
+29-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:19:9-47
+29-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:19:19-44
+30        <activity android:name="com.amaderhub.ifelsecondition.Problem19" />
+30-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:20:9-47
+30-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:20:19-44
+31        <activity android:name="com.amaderhub.ifelsecondition.Problem18" />
+31-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:21:9-47
+31-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:21:19-44
+32        <activity android:name="com.amaderhub.ifelsecondition.Problem17" />
+32-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:22:9-47
+32-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:22:19-44
+33        <activity android:name="com.amaderhub.ifelsecondition.Problem16" />
+33-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:23:9-47
+33-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:23:19-44
+34        <activity android:name="com.amaderhub.ifelsecondition.Problem15" />
+34-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:24:9-47
+34-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:24:19-44
+35        <activity android:name="com.amaderhub.ifelsecondition.Problem14" />
+35-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:25:9-47
+35-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:25:19-44
+36        <activity android:name="com.amaderhub.ifelsecondition.Problem13" />
+36-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:26:9-47
+36-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:26:19-44
+37        <activity android:name="com.amaderhub.ifelsecondition.Problem12" />
+37-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:27:9-47
+37-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:27:19-44
+38        <activity android:name="com.amaderhub.ifelsecondition.Problem11" />
+38-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:28:9-47
+38-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:28:19-44
+39        <activity android:name="com.amaderhub.ifelsecondition.Problem10" />
+39-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:29:9-47
+39-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:29:19-44
+40        <activity android:name="com.amaderhub.ifelsecondition.Problem9" />
+40-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:30:9-46
+40-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:30:19-43
+41        <activity android:name="com.amaderhub.ifelsecondition.Problem8" />
+41-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:31:9-46
+41-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:31:19-43
+42        <activity android:name="com.amaderhub.ifelsecondition.Problem7" />
+42-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:32:9-46
+42-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:32:19-43
+43        <activity android:name="com.amaderhub.ifelsecondition.Problem6" />
+43-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:33:9-46
+43-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:33:19-43
+44        <activity android:name="com.amaderhub.ifelsecondition.Problem5" />
+44-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:34:9-46
+44-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:34:19-43
+45        <activity android:name="com.amaderhub.ifelsecondition.Problem4" />
+45-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:35:9-46
+45-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:35:19-43
+46        <activity android:name="com.amaderhub.ifelsecondition.Problem3" />
+46-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:36:9-46
+46-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:36:19-43
+47        <activity android:name="com.amaderhub.ifelsecondition.Problem2" />
+47-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:37:9-46
+47-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:37:19-43
+48        <activity android:name="com.amaderhub.ifelsecondition.Problem1" />
+48-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:38:9-46
+48-->C:\Users\Abeer\AndroidStudioProjects\IfElseCondition\app\src\main\AndroidManifest.xml:38:19-43
+49    </application>
+50
+51</manifest>

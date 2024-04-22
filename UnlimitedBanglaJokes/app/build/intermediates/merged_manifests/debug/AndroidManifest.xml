@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amaderhub.unlimitedbanglajokes"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage20" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage19" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage18" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage17" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage16" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage15" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage14" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage13" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage12" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage11" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage10" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage9" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage8" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage7" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage6" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage5" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage4" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage3" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage2" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.UnlimitedStoryPage1" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.ModMatalStory" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.NasiruddinHojaStory" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.HusbandWifeStory" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.Boltu_Story" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.Love_Lover_Story" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.DoctorPatientStory" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.StudentTeacherStory" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.GopalvarStory" />
+        <activity android:name="com.amaderhub.unlimitedbanglajokes.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+            android:authorities="com.amaderhub.unlimitedbanglajokes.mobileadsinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

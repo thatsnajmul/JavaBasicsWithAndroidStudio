@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Love_Lover_Story"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="প্রেমিক-প্রেমিকার জোকস"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="8dp"
+                android:textColor="#FFFFFF"
+                android:textAlignment="gravity"
+                android:gravity="center"
+                android:background="#EF0E0E"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/lover"
+                android:scaleType="fitXY"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০১) ছাত্র এক মেয়েকে জড়িয়ে ধরল\n
+এক ম্যানেজমেন্টের ছাত্র এক মেয়েকে জড়িয়ে ধরল। মেয়েটি অবাক হয়ে বলল-\n
+মেয়ে : এটা কী হল?\n
+ছেলে : ডাইরেক্ট মার্কেটিং জান।\n
+
+মেয়ে ঠাস করে ছেলের গালে এক চড় বসিয়ে দিলো-\n
+ছেলে : এটা কী হল?\n
+মেয়ে : কাস্টমার ফিডব্যাক!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০২) কী করলে ব্রেক আপের সম্ভাবনা কম থাকে???\n
+প্রেমিক : ব্রেক আপের সম্ভাবনা কম থাকে কী করলে…\n
+মনোবিজ্ঞানী: আপনার গার্লফ্রেন্ডের কাছ থেকে দ্রুত কিছু মোটা অংকের টাকা ধার নিন! তাহলে ব্রেক আপের সম্ভাবনা কম থাকবে।\n
+প্রেমিক : কোন তরুণীর স্যান্ডেল বেশিদিন টেকে…\n
+মনোবিজ্ঞানী : স্কুটি চালানো তরুণীদের চেয়ে যারা স্কুটি চালায় না তাদের স্যান্ডেল বেশিদিন টেকে!!!!!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৩) দিনে দুইবার হার্ট অ্যাটাক\n
+এক তরুণের একই দিনে দুইবার হার্ট অ্যাটাক হলো-\n
+প্রথমবার দুপুরে যখন তার প্রেমিকা মেসেজ পাঠালো, ‘চলো, এবার আমাদের সম্পর্কের ইতি টানি। সব শেষ করে দিলাম। তোমার সঙ্গে আমার ব্রেকআপ এখন থেকে।’\n
+
+হাসপাতাল থেকে সুস্থ হয়ে বাসায় ফেরার পর ফোন অন করে প্রেমিকার দ্বিতীয় মেসেজ পড়লো, ‘সরি সরি, জান! ওই মেসেজটা তোমার জন্য ছিল না।’\n
+এরপর দ্বিতীয় বার হার্ট অ্যাটাক হলো
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৪) কিছুই হতে পারলাম না\n
+দীর্ঘদিন প্রেম করার পর তাদের ব্রেকআপ হচ্ছে-\n
+প্রেমিকা: তোমায় ভালোবেসে আমার সর্বনাশ হয়েছে। কিছুই হতে পারলাম না!\n
+প্রেমিক: তো আমি কোথাকার ডাক্তার, ইঞ্জিনিয়ার, এমপি-মন্ত্রী হয়ে গেছি?
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৫) তোমর বয়স ৪০ বছর\n
+প্রেমিকা : আজকে আমাকে কেমন লাগছে?\n
+প্রেমিক : থ্রি পিচ দেখে মনে হচ্ছে তোমার বয়স ১৬।\n
+প্রেমিকা : ধন্যবাদ।\n
+প্রেমিক : লিপস্টিক দেখে মনে হচ্ছে তোমার বয়স ১৪।\n
+প্রেমিকা : ধন্যবাদ।\n
+প্রেমিক : টিপ দেখে মনে হচ্ছে তোমার বয়স ১০।\n
+প্রেমিকা : তোমাকে অনেক ধন্যবাদ।\n
+প্রেমিক : না মানে, সব মিলিয়ে মনে হচ্ছে তোমর বয়স ৪০।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৬) বৌ আর প্রেমিকা একসঙ্গে\n
+বহুদিন পর দেখা রনি ও জনির। রেস্টুরেন্টে দুই বন্ধুর খোশগল্প চলছে। হঠাৎ তাদের দিকে হাত ধরাধরি করে দুই তরুণী এগিয়ে আসছে।\n চেয়ার ছেড়ে দাঁড়িয়ে গেল রনি-\n
+রনি: কাম সারছে দোস্ত!\n
+জনি: কেন! কী হইছে?\n
+রনি: পুরাই সর্বনাশ… আমার বৌ আর প্রেমিকা একসঙ্গে আসতেছে,ওই দেখ!\n
+জনি: হায় আল্লাহ, আমারও তো! এদের একজন আমার বৌ অপরজন প্রেমিকা!\n
+
+— যাক বাঁচলাম, আসুক!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৭) তোমার জন্য রুটি-রুজির পথও ছেড়ে দেব\n
+সদ্য প্রাক্তন প্রেমিককে বলছে মেয়ে-\n
+মেয়ে: আমার বিয়ে আগামীকাল আর আজ গায়ে হলুদ- অথচ কী অদ্ভুত! তুমি আবার এসেছো আমাদের বাসায়? লজ্জা-শরমের মাথা কি পুরোটাই গিলে খেয়েছো?\n
+ছেলে: গায়ে হলুদের ডিজে পার্টির বুকিং আমাদের কোম্পানিকে দেওয়া হয়েছে; সেখান থেকে ডিজে হিসেবে আমাকে পাঠালো। তোমার জন্য রুটি-রুজির পথও ছেড়ে দেব? বলো!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৮) সত্যিকারের প্রেম কারো পরোয়া করে না\n
+প্রেমিকা: তুমি কি আমাকে ভালোবাস?\n
+প্রেমিক: একশ’ বার!\n
+প্রেমিকা: কিন্তু আমাকে তো পরোয়াই কর না তুমি!\n
+প্রেমিক: যে সত্যিকারের প্রেমে পরে সে কারো পরোয়া করে
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(০৯) আমার ফিলিংস বোঝার চেষ্টা করনি\n
+প্রেমিকার সঙ্গে চিকিৎসক প্রেমিকের তর্ক চলছে-\n
+প্রেমিকা : তুমি তো কখনো আমার ফিলিংস বোঝার চেষ্টা করনি!\n
+প্রেমিক : কেন, কী হয়েছে?\n
+প্রেমিকা : আমি কী চাই, কিসে আনন্দিত হই, কিছুই বোঝ না তুমি।\n
+প্রেমিক : রাখ তোমার ফিলিংস! আমি নিজের হাতের লেখাই আজ পর্যন্ত বুঝতে পারিনি, আর তুমি আসছো ফিলিংস নিয়ে।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১০) সবাই দুলাভাই বলে
+এক কলেজ ছাত্র একই কলেজের এক সুন্দরী ছাত্রীকে বলল-
+ছাত্র : তোমার নাম কি?
+ছাত্রী : সবাই আমাকে আপু বলে ডাকে।
+ছাত্র : কী অদ্ভুত ব্যাপার!
+ছাত্রী : কেন?
+ছাত্র : আমাকে তো সবাই দুলাভাই বলে ডাকে!"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১১) তোমার দৃষ্টিশক্তি একদম ঠিক আছে\n
+প্রেমিকা: আমাকে খুব মটকু দেখাচ্ছে, তাই না?\n
+প্রেমিকা: কে বলল এমন কথা?\n
+প্রেমিকা: কে বলবে আবার, আমি নিজের চোখেই তো দেখছি!\n
+প্রেমিকা: তোমার দৃষ্টিশক্তি একদম ঠিক আছে।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১২) মঙ্গলসূত্র নিয়ে এসেছি\n
+একই ক্লাসে পড়ে রাধা ও দীপন। রাধার প্রতি দুর্বল দীপন, বিষয়টি বুঝে রাধা মাঝেমাঝেই মজা করে ওর সঙ্গে।\n একদিন তেমনি মজা নিতে গেল রাধা-\n
+রাধা: গতকাল তোমার জন্য আমি রাঁখি নিয়ে এসেছিলাম। তুমি হাতে বাঁধতেই দিলে না! কেন?\n
+দীপন: সেই ভুল শোধরাতেই তো আজ তোমার জন্য মঙ্গলসূত্র নিয়ে এসেছি। তুমি নিশ্চয়ই না করবে না!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৩) পাগলাগারদ থেকে নিয়ে যেতে চাই\n
+মেয়ের বাবার সঙ্গে কথা বলছে মেয়ের প্রেমিক। এক পর্যায়ে মেয়ের বাবা বললেন-\n
+মেয়ের বাবা: আমি চাই না আমার মেয়ে কোনো পাগলের সঙ্গে তার বাকি জীবন কাটাক!\n
+
+
+প্রেমিক: সে জন্যই তো তাকে বিয়ে করে যত দ্রুত সম্ভব এই পাগলাগারদ থেকে নিয়ে যেতে চাই, আঙ্কেল!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৪) ধোঁকাবাজ প্রেমিক ধান্ধাবাজ প্রেমিকা\n
+ধোঁকাবাজ প্রেমিক বিদেশ চলে যাচ্ছে। ধান্ধাবাজ প্রেমিকা এসেছে বিদায় জানাতে-\n
+প্রেমিকা : তোমার হাতের হীরার আংটিটা আমাকে দিয়ে যাও।\n
+প্রেমিক : কেন প্রিয়তমা, জান আমার।\n
+প্রেমিকা : এই আংটি আমাকে সারাক্ষণ তোমার কথা মনে করাবে।\n
+প্রেমিক : এটা ছাড়াও তুমি সারাক্ষণ আমাকে মনে করবে।\n
+প্রেমিকা : সেটা কীভাবে?\n
+প্রেমিক : আমি চলে যাওয়ার পর থেকে তোমার মনে খচ খচ করবে একটি কথাই- আংটিটা চাইছিলাম, দিলো না! কী প্রেম করছিলাম রে বাবা।
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৫) মেয়েরা লাভ ম্যারেজ পছন্দ করে কেন\n
+ছেলে : আচ্ছা, তোমরা মেয়েরা লাভ ম্যারেজ পছন্দ করে কেন?\n
+মেয়ে : সুবিধা আছে।\n
+ছেলে : কী সুবিধা আছে?\n
+মেয়ে : অচেনা কোনো গোঁয়ারের পাল্লায় পড়ার চেয়ে চেনা জোকারটাকে হাতের কবজায় পাওয়া সুবিধাজনক!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৬) ব্রেকআপের সম্ভাবনা কম থাকবে\n
+প্রেমিক : ব্রেক আপের সম্ভাবনা কম থাকে কী করলে?\n
+মনোবিজ্ঞানী: আপনার গার্লফ্রেন্ডের কাছ থেকে দ্রুত কিছু মোটা অংকের টাকা ধার নিন! তাহলে ব্রেকআপের সম্ভাবনা কম থাকবে।\n
+প্রেমিক : কোন তরুণীর স্যান্ডেল বেশিদিন টেকে?\n
+মনোবিজ্ঞানী : স্কুটি চালানো তরুণীদের চেয়ে যারা স্কুটি চালায় না তাদের স্যান্ডেল বেশিদিন টেকে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৭) প্রেমিকার বিয়েতে নাচতে এলো প্রেমিক\n
+সদ্য প্রাক্তন প্রেমিককে বলছে মেয়ে-\n
+মেয়ে: আমার বিয়ে আগামীকাল আর আজ গায়ে হলুদ- অথচ কী অদ্ভুত! তুমি আবার এসেছো আমাদের বাসায়? লজ্জা-শরমের মাথা কি পুরোটাই গিলে খেয়েছো?\n
+ছেলে: গায়ে হলুদের ডিজে পার্টির বুকিং আমাদের কোম্পানিকে দেওয়া হয়েছে; সেখান থেকে ডিজে হিসেবে আমাকে পাঠালো। তোমার জন্য রুটি-রুজির পথও ছেড়ে দেব? বলো!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৮) পাগলের সঙ্গে বাকি জীবন\n
+মেয়ের বাবার সঙ্গে কথা বলছে মেয়ের প্রেমিক। এক পর্যায়ে মেয়ের বাবা বললেন-\n
+মেয়ের বাবা: আমি চাই না আমার মেয়ে কোনো পাগলের সঙ্গে তার বাকি জীবন কাটাক!\n
+প্রেমিক: সে জন্যই তো তাকে বিয়ে করে যত দ্রুত সম্ভব এই পাগলাগারদ থেকে নিয়ে যেতে চাই, আঙ্কেল!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(১৯) যাকে ভালোবাসতাম সে\n
+পল্টু: আমার ভালোবাসার মাত্র দু’জন সাক্ষী ছিল!\n
+লাল্টু: কে কে?\n
+পল্টু: একজন হচ্ছে যাকে ভালোবাসতাম সে, অপরজন হচ্ছে তার দাদি!\n
+লাল্টু: তো? ছিল বলছিস কেন?\n
+পল্টু: একজন আমার চেয়ে স্মার্ট ছেলে পেয়ে মুখ ফিরিয়ে নিয়েছে। আর অপরজন অনেক বয়স হয়েছিল তার- তাই দুনিয়া থেকেই মুখ ফিরিয়ে নিয়েছে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(২০) প্রেমিকা :- যদি আমাদের বিয়ে হয় তাহলে তুমি সিগারেট ছেড়ে দিবে ?\n
+প্রেমিক :- ওকে\n
+প্রেমিকা :- ড্রিংকস করাও না..\n
+প্রেমিক :- ওকে\n
+প্রেমিকা :- নাইট ক্লাবেও যেতে পারবেনা\n
+প্রেমিক :- ওকে\n
+প্রেমিকা :- আর কি বাকী আছে যা তুমি ছেড়ে দিবে\n
+প্রেমিক :- তোমাকে!
+\n
+\n
+"
+                android:textSize="18dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UnlimitedStoryPage6"
+    android:background="#FFFFFF"
+    >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="08dp"
+            android:layout_margin="08dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="পর্ব- ০৬"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(২৬) সম্পর্ক তো আমার চেয়ে অনেক বেশি\n
+বল্টু তার বড় ভাইকে বলছে-\n
+বল্টু: প্লিজ, মার কাছে সিনেমার পয়সা চাও।\n
+ভাই : তুই চা না! মা তো শুধু আমার না, তোরও।\n
+বল্টু: তা বটে, তবে তার সঙ্গে তোমার সম্পর্ক তো আমার চেয়ে অনেক বেশি দিনের, ঠিক না?
+\n
+\n
+\n
+(২৭) “বউ এর রচনা” \n
+☞ বউ একটি গৃহপালিত প্রানী।\n
+☞ এরা গিন্নী নামেও পরিচিত।\n
+☞ এরা সাধারন মানুষের মত।\n
+☞ হাত,পা, নাক, কান সবই আছে।\n
+☞ তবে জিনগত সূত্রে চাপা বলে একটা জিনিস পেয়েছে।\n
+☞ পাশের বাসার ভাবীর সাথে চাপা বাজিতে এরা অতুলনীয়।\n
+☞ আর হিন্দী সিরিয়াল এদের কাছে কেএফসি’তে মুরগী খাওয়ার চেয়েও উত্তম।\n
+☞ হাজব্যাণ্ড সাথে ঝগড়া করে জয়লাভ না করা পর্যন্ত সংগ্রাম চালিয়ে যাবে।\n
+☞ হাজব্যান্ড একটু রাত করে বাসায় ফিরলে হাড়ি,পাতিল যা কিছু আছে।\n
+☞ সব আলোর বেগে ছুরে মারতে কোন দিধা নেই এদের।\n
+☞ আর কথায় কথায় বাপের বাড়ি চলে যাওয়ার আল্টিমেটাম তো আছেই।\n
+☞ আর তাদের একটা চিরন্তন বানী হচ্ছে, তোমার সাথে বিয়ে হয়ে আমার জীবনটা শেষ।\n
+☞ তুমি জানো আমার জন্যে কত ডাক্তার, ইঞ্জিনিয়ার এসেছিল।\n
+☞ কলেজে থাকতে কত প্রেমপত্র পেয়েছি।\n
+☞ শেষমেষ বাবা তোমার মত রাম ছাগলের কাছে বিয়ে দিল।\n
+☞ তারপর কেঁদে কেঁদে নাকের পানি চোখের পানি এক করবে।\n
+☞ আর নারী নির্যাতনের কেইস করার হুমকি দিবে।\n
+==আর এরাই হল সত্যি কারের বউ
+\n
+\n
+\n
+(২৮) ক্যামেরার ফিল্ম শেষ হয়ে গেল এইমাত্র\n
+নদীর পাড়ে ছবি তুলছে ফটোগ্রাফার। এক মহিলা ছুটে এলো তার দিকে-\n
+মহিলা : জলদি আমার সঙ্গে চলুন, প্লিজ! আমার বান্ধবী পানিতে ডুবে যাচ্ছে।\n
+ফটোগ্রাফার : ইস! একটু আগে যদি বলতেন! আমার ক্যামেরার ফিল্ম শেষ হয়ে গেল এইমাত্র!
+\n
+\n
+\n
+(২৯) বখাটে ছেলে \n
+এক তরুণী চাকরিজীবী, \n রোজ অফিসে বেশ
+দেরি করে আসেন।\n অফিসের বস, এই
+ঘটনা জেনে অনেক বার ওই তরুণীকে শাসিয়েছেন। অথচ, আজও সে দু’ঘণ্টা দেরি করে অফিসে এসেছে! \n
+বসঃ আচ্ছা, আজও দেরি হল কেন? \n
+তরুণীঃ কি করব স্যার, রাস্তায় এক বখাটে ছেলে পিছু নিয়েছিল! \n
+বসঃ বলে কী! তাহলে তো দ্রুত হেঁটে আরও এক ঘণ্টা আগে অফিসে পৌঁছানোর কথা, দেরি হল কেন? \n
+তরুণীঃ আর বলবেন না, ছেলেটা এত
+আস্তে হাঁটে!
+\n
+\n
+\n
+(৩০) মাঝে-সাঝে মাথাটাও কাজে লাগাও\n
+মাথায় মারাত্মক আঘাত নিয়ে বল্টু গেছে ডাক্তারের কাছে-\n
+বল্টু: ডাক্তার, তাড়াতাড়ি কিছু করো! আহ্, শেষ হয়ে গেলাম! \n
+ডাক্তার: কীভাবে এমন হলো! \n
+বল্টু: আর বলো না। বাড়ির কাজের জন্য পাথর দিয়ে ইট ভাঙছিলাম। সামনে দিয়ে এলাকার স্কুলের মাস্টার যাচ্ছিল। সে বলল, ‘বল্টু, মাঝে-সাঝে মাথাটাও কাজে লাগাও’।\n
+ডাক্তার: তো কী হয়েছে? \n
+বল্টু: তার কথামতো পাথরের বদলে মাথা দিয়ে ইট ভাঙার চেষ্টা করলাম।
+\n
+\n
+\n
+"
+                android:textSize="16dp"
+                android:layout_margin="05dp"
+                android:padding="05dp"
+                android:textColor="#000000"
+                android:textAlignment="gravity"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

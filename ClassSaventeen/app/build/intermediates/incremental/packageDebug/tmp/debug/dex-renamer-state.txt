@@ -1,0 +1,4 @@
+#Wed Jul 01 12:29:36 BDT 2020
+base.0=C\:\\Users\\Abeer\\AndroidStudioProjects\\ClassSaventeen\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

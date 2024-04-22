@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#FFFFFF"
+    >
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#F8E00B"
+        android:weightSum="100"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="আনলিমিটেড বাংলা জোকস"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:textColor="#8E04A6"
+            android:textStyle="bold"
+            android:layout_weight="100"
+            />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scroolmain"
+        android:layout_below="@id/header"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:orientation="vertical"
+            android:background="#FFFFFF"
+            >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:background="#FFFFFF"
+                >
+                <Button
+                    android:id="@+id/gopalvar"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="গোপাল ভাঁড়"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+
+                    />
+                <Button
+                    android:id="@+id/student_teacher"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="ছাত্র শিক্ষক"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+
+                    />
+                <Button
+                    android:id="@+id/doctor_patiant"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="ডাক্তার রোগী"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+                    />
+                <Button
+                    android:id="@+id/love_lover"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="প্রেমিক প্রেমিকা"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+                />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_gravity="center"
+                android:background="#FFFFFF"
+                >
+                <Button
+                    android:id="@+id/boltu"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="বল্টু"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+                    />
+                <Button
+                    android:id="@+id/husband_wife"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="জামাই বউ"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+                    />
+                <Button
+                    android:id="@+id/nasiruddin_hoja"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="নাসিরুদ্দিন হোজা"
+                    android:background="#F5F5F5"
+                    android:textSize="16dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+                    />
+                <Button
+                    android:id="@+id/mod_matal"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_gravity="center"
+                    android:text="মদ ও মাতাল"
+                    android:background="#F5F5F5"
+                    android:textSize="18dp"
+                    android:layout_margin="8dp"
+                    android:padding="5dp"
+                    android:textColor="#F807A8"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:background="#FFFFFF"
+                android:layout_marginBottom="15dp"
+                >
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="সেরা সকল জোকস"
+                android:background="@drawable/buttonshape"
+                android:textSize="30dp"
+                android:layout_margin="8dp"
+                android:padding="5dp"
+                />
+            <Button
+                android:id="@+id/button_1"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০১"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০২"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_3"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৩"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_4"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৪"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_5"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৫"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_6"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৬"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_7"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৭"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_8"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৮"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_9"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ০৯"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_10"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১০"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_11"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১১"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_12"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১২"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_13"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৩"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_14"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৪"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_15"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৫"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_16"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৬"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_17"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৭"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_18"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৮"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+                android:id="@+id/button_19"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="সেরা সব বাংলা জোকস পর্ব- ১৯"
+                android:textSize="23dp"
+                android:layout_margin="15dp"
+                android:textColor="#1536EF"
+                android:background="@drawable/buttonshape"
+                />
+            <Button
+            android:id="@+id/button_20"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="সেরা সব বাংলা জোকস পর্ব- ২০"
+            android:textSize="23dp"
+            android:layout_margin="15dp"
+            android:textColor="#1536EF"
+            android:background="@drawable/buttonshape"
+            />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
